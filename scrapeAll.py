@@ -4,10 +4,17 @@ import json
 import re
 import time
 import csv
+import os
 from urllib.parse import urlparse, parse_qs
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from threading import Lock
 
 BASE = "https://www.medpages.info/sf/"
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; MedpagesScraper/1.0)"}
+
+# Thread-safe counter and lock for progress tracking
+progress_lock = Lock()
+progress_counter = 0
 
 def extract_people(html):
     """Parse one Medpages listing page and return list of dicts."""
@@ -70,17 +77,22 @@ def extract_service_code(url):
     
     return None
 
-def scrape_listing(service_name, service_code, delay=1.5):
+def scrape_listing(service_name, service_code, total_services, delay=0.5):
     """Scrape all pages for a given service code."""
+    global progress_counter
+    
     base_url = f"{BASE}index.php?page=listing&servicecode={service_code}&countryid=1&regioncode=0&subregioncode=0&suburbcode=0"
     
-    print(f"\n🔍 Scraping {service_name} (service code: {service_code})...")
+    with progress_lock:
+        progress_counter += 1
+        current = progress_counter
+        print(f"\n[{current}/{total_services}] 🔍 Scraping {service_name} (code: {service_code})...")
     
     try:
         r = requests.get(base_url, headers=HEADERS, timeout=30)
         if r.status_code != 200:
             print(f"   ❌ Failed to fetch (status {r.status_code})")
-            return []
+            return service_name, []
 
         html = r.text
         all_people = extract_people(html)
@@ -88,7 +100,7 @@ def scrape_listing(service_name, service_code, delay=1.5):
 
         if not all_people and not pages:
             print(f"   ℹ️  No results found")
-            return []
+            return service_name, []
 
         print(f"   ✓ Found {len(all_people)} results on page 1")
 
@@ -103,11 +115,11 @@ def scrape_listing(service_name, service_code, delay=1.5):
                 print(f"      ✓ Found {len(page_people)} results")
 
         print(f"   ✅ Total: {len(all_people)} results for {service_name}")
-        return all_people
+        return service_name, all_people
     
     except Exception as e:
         print(f"   ❌ Error: {str(e)}")
-        return []
+        return service_name, []
 
 def load_services_from_csv(csv_file):
     """Load service names and codes from CSV file."""
@@ -129,54 +141,82 @@ def load_services_from_csv(csv_file):
     
     return services
 
-# Main scraping logic
-print("=" * 70)
-print("🚀 Starting Medpages Scraper")
-print("=" * 70)
-
-# Load services from both CSV files
-print("\n📂 Loading services from CSV files...")
-services_full = load_services_from_csv("medpages_full_links.csv")
-services_mental = load_services_from_csv("medpages_mental_health.csv")
-
-# Combine and deduplicate services
-all_services = {}
-for service in services_full + services_mental:
-    # Use service code as key to avoid duplicates
-    all_services[service['code']] = service['name']
-
-print(f"✓ Loaded {len(all_services)} unique services")
-
-# Scrape all services
-all_data = {}
-total_services = len(all_services)
-current = 0
-
-for service_code, service_name in all_services.items():
-    current += 1
-    print(f"\n[{current}/{total_services}]", end=" ")
+def main():
+    """Main scraping logic with parallel processing."""
+    global progress_counter
+    progress_counter = 0
     
-    people = scrape_listing(service_name, service_code)
+    print("=" * 70)
+    print("🚀 Starting Medpages Scraper (Parallel Processing)")
+    print("=" * 70)
     
-    if people:
-        all_data[service_name] = people
+    # Detect CPU cores
+    cpu_count = os.cpu_count() or 4
+    max_workers = min(cpu_count * 2, 16)  # Use 2x CPU cores, max 16 threads
+    print(f"💻 System Info:")
+    print(f"   - CPU Cores: {cpu_count}")
+    print(f"   - Worker Threads: {max_workers}")
     
-    # Be respectful with rate limiting
-    time.sleep(1.5)
+    # Load services from both CSV files
+    print("\n📂 Loading services from CSV files...")
+    services_full = load_services_from_csv("medpages_full_links.csv")
+    services_mental = load_services_from_csv("medpages_mental_health.csv")
+    
+    # Combine and deduplicate services
+    all_services = {}
+    for service in services_full + services_mental:
+        # Use service code as key to avoid duplicates
+        all_services[service['code']] = service['name']
+    
+    print(f"✓ Loaded {len(all_services)} unique services")
+    
+    # Scrape all services in parallel
+    all_data = {}
+    total_services = len(all_services)
+    
+    print(f"\n🚀 Starting parallel scraping with {max_workers} workers...")
+    print("=" * 70)
+    
+    start_time = time.time()
+    
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        # Submit all tasks
+        future_to_service = {
+            executor.submit(scrape_listing, service_name, service_code, total_services): 
+            (service_code, service_name)
+            for service_code, service_name in all_services.items()
+        }
+        
+        # Process completed tasks
+        for future in as_completed(future_to_service):
+            service_code, service_name = future_to_service[future]
+            try:
+                result_name, people = future.result()
+                if people:
+                    all_data[result_name] = people
+            except Exception as e:
+                print(f"   ❌ Exception for {service_name}: {str(e)}")
+    
+    elapsed_time = time.time() - start_time
+    
+    # Save to JSON
+    output_file = "medpages_all_data.json"
+    print(f"\n{'=' * 70}")
+    print(f"💾 Saving data to {output_file}...")
+    
+    with open(output_file, "w", encoding="utf-8") as f:
+        json.dump(all_data, f, indent=2, ensure_ascii=False)
+    
+    # Print summary
+    total_people = sum(len(people) for people in all_data.values())
+    print(f"✅ Done!")
+    print(f"📊 Summary:")
+    print(f"   - Services scraped: {len(all_data)}")
+    print(f"   - Total professionals: {total_people}")
+    print(f"   - Time elapsed: {elapsed_time:.2f} seconds")
+    print(f"   - Average time per service: {elapsed_time/total_services:.2f} seconds")
+    print(f"   - Output file: {output_file}")
+    print("=" * 70)
 
-# Save to JSON
-output_file = "medpages_all_data.json"
-print(f"\n{'=' * 70}")
-print(f"💾 Saving data to {output_file}...")
-
-with open(output_file, "w", encoding="utf-8") as f:
-    json.dump(all_data, f, indent=2, ensure_ascii=False)
-
-# Print summary
-total_people = sum(len(people) for people in all_data.values())
-print(f"✅ Done!")
-print(f"📊 Summary:")
-print(f"   - Services scraped: {len(all_data)}")
-print(f"   - Total professionals: {total_people}")
-print(f"   - Output file: {output_file}")
-print("=" * 70)
+if __name__ == "__main__":
+    main()

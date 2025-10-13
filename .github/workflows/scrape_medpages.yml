@@ -1,0 +1,104 @@
+name: Scrape MedPages Data
+
+on:
+  # Run on manual trigger
+  workflow_dispatch:
+  
+  # Run on schedule (every Sunday at 00:00 UTC)
+  schedule:
+    - cron: '0 0 * * 0'
+  
+  # Run on push to main branch
+  push:
+    branches:
+      - main
+    paths:
+      - 'scrapeAll.py'
+      - 'medpages_full_links.csv'
+      - 'medpages_mental_health.csv'
+      - '.github/workflows/scrape_medpages.yml'
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+      
+      - name: 📦 Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: 🔍 Run scraper
+        run: |
+          python scrapeAll.py
+      
+      - name: 📊 Display results
+        run: |
+          if [ -f medpages_all_data.json ]; then
+            echo "✅ Scraping completed successfully!"
+            echo "File size: $(du -h medpages_all_data.json | cut -f1)"
+            echo "Number of lines: $(wc -l < medpages_all_data.json)"
+          else
+            echo "❌ Output file not found!"
+            exit 1
+          fi
+      
+      - name: 📤 Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: medpages-data-${{ github.run_number }}
+          path: medpages_all_data.json
+          retention-days: 90
+      
+      - name: 🔄 Commit and push data back to repo
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # Add the data file
+          git add medpages_all_data.json
+          
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🤖 Update medpages data - $(date +'%Y-%m-%d %H:%M:%S UTC')"
+            git push
+            echo "✅ Data pushed back to repository"
+          fi
+      
+      - name: 📈 Create summary
+        if: always()
+        run: |
+          echo "## 📊 Scraping Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          if [ -f medpages_all_data.json ]; then
+            echo "✅ **Status:** Success" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "- **File:** medpages_all_data.json" >> $GITHUB_STEP_SUMMARY
+            echo "- **Size:** $(du -h medpages_all_data.json | cut -f1)" >> $GITHUB_STEP_SUMMARY
+            echo "- **Run Number:** ${{ github.run_number }}" >> $GITHUB_STEP_SUMMARY
+            echo "- **Timestamp:** $(date +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "🎉 Data has been uploaded as an artifact and committed to the repository!" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "❌ **Status:** Failed" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "The scraper did not produce an output file." >> $GITHUB_STEP_SUMMARY
+          fi
+
+permissions:
+  contents: write
+  actions: read
