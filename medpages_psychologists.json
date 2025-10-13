@@ -1,0 +1,383 @@
+{
+  "Psychologist - Clinical": [
+    {
+      "name": "Mr Calvin James Pienaar",
+      "title": "Psychologist - Clinical",
+      "location": "Sandton, Sandton, Gauteng",
+      "description": "Anxiety Disorders, Bipolar Disorders, Corporate Wellness, Depressive Disorders, Forensic Work, ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=179712",
+      "latitude": -26.0516797,
+      "longitude": 28.0389927
+    },
+    {
+      "name": "Mr Senyatsi Tema",
+      "title": "Psychologist - Clinical",
+      "location": "Silverton, Pretoria, Gauteng",
+      "description": "Bereavement & Loss, Depression & Anxiety, Drug Addiction, Marriage Counselling, Personality ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=396280",
+      "latitude": -25.7322442,
+      "longitude": 28.2848085
+    },
+    {
+      "name": "Dr Debra Geraldine Alexander",
+      "title": "Psychologist - Clinical",
+      "location": "Constantia, Cape Town, Western Cape",
+      "description": "Adolescents, Adults & Families - Anxiety & Depressive Disorders, Eating Disorders, Health & ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=99387",
+      "latitude": -34.0212736,
+      "longitude": 18.4244143
+    },
+    {
+      "name": "Mrs Evelyn Elizabeth Beneke",
+      "title": "Psychologist - Clinical",
+      "location": "Camps Bay, Cape Town, Western Cape",
+      "description": "Anger Management, Anxiety, Behavioural Disorders, Bereavement, Bipolar Disorders, Co-Dependency, ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=152287",
+      "latitude": -33.96034,
+      "longitude": 18.38009
+    },
+    {
+      "name": "Dr Lorinda Brink Bergh",
+      "title": "Psychologist - Clinical",
+      "location": "Rooihuiskraal, Centurion, Gauteng",
+      "description": "Anxiety, Bereavement, Career Counselling, Couple & Marriage Counselling, Crisis Management, ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=34540",
+      "latitude": -25.8938,
+      "longitude": 28.1435
+    },
+    {
+      "name": "Mrs Beauty Ntombizanele Booi-Yibe",
+      "title": "Psychologist - Clinical",
+      "location": "Queenstown, Queenstown, Eastern Cape",
+      "description": "Couple Therapy, Grief Counselling, Group Therapy, HIV & AIDS Counselling, Individual Therapy, I Q ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=110669",
+      "latitude": -31.8986,
+      "longitude": 26.8832
+    },
+    {
+      "name": "Dr Wilna Adriana Coetzee",
+      "title": "Psychologist - Clinical",
+      "location": "Vredenburg, Vredenburg, Western Cape",
+      "description": "Adjustment Disorders, Adolescents and Children (12 years +), Adults, Anxiety Disorders, BWRT (Brain ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=36473",
+      "latitude": -32.9101168,
+      "longitude": 17.989542
+    },
+    {
+      "name": "Mr Emile Murray Du Toit",
+      "title": "Psychologist - Clinical",
+      "location": "Kirstenhof, Cape Town, Western Cape",
+      "description": "Addiction, Alcohol & Drug Abuse, Anger Management, Anxiety, Bipolar, Borderline Personality ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=113368",
+      "latitude": -34.0657691,
+      "longitude": 18.4537201
+    },
+    {
+      "name": "Dr Jacobus Daniel (Koos) Du Toit",
+      "title": "Psychologist - Clinical",
+      "location": "Honeyhills, Roodepoort, Gauteng",
+      "description": "Adults, Couples, Neurocognitive Assessments, Psychotherapy, Teenagers",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=35359",
+      "latitude": -26.1425277,
+      "longitude": 27.8879401
+    },
+    {
+      "name": "Ms Mia Du Toit",
+      "title": "Psychologist - Clinical",
+      "location": "Linden, Randburg, Gauteng",
+      "description": "Adult Individual Psychotherapy, Archetypal Pattern Analysis, Imago Parenting, Imago Relationship ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=99789",
+      "latitude": -26.1431653,
+      "longitude": 27.9981805
+    },
+    {
+      "name": "Mr Bradley Knight",
+      "title": "Psychologist - Clinical",
+      "location": "Claremont, Cape Town, Western Cape",
+      "description": "Anxiety, Complicated Grief, Depression, Trauma",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=393148",
+      "latitude": -33.9892962,
+      "longitude": 18.4670605
+    },
+    {
+      "name": "Mrs Mosima Marole",
+      "title": "Psychologist - Clinical",
+      "location": "Les Marais, Pretoria, Gauteng",
+      "description": "Adjustment Difficulties, Anger Management, Anxiety, Behavioral Difficulties in Teenagers, ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=313100",
+      "latitude": -25.7102684,
+      "longitude": 28.193534
+    },
+    {
+      "name": "Ms Sharon Lesley Maynard",
+      "title": "Psychologist - Clinical",
+      "location": "Clubview, Centurion, Gauteng",
+      "description": "Adults & Adolescents Individual Psychotherapy, Assessment of Adult Psychological Functioning, ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=72731",
+      "latitude": -25.8380145,
+      "longitude": 28.1748081
+    },
+    {
+      "name": "Mr Similo Sadick Monareng",
+      "title": "Psychologist - Clinical",
+      "location": "Thatchfield, Centurion, Gauteng",
+      "description": "Anger Management, Anxiety, Assertive Skills Training, Behavioral Problems, Coping Skills, Crisis ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=136700",
+      "latitude": -25.8949983,
+      "longitude": 28.1153416
+    },
+    {
+      "name": "Dr Patrick Maredi Mothapo",
+      "title": "Psychologist - Clinical",
+      "location": "Centurion, Centurion, Gauteng",
+      "description": "Addictions, Adjustment Disorders, Anxiety, Behavioral Problems, Bereavement, Depression, Eating ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=214571",
+      "latitude": -25.8599583,
+      "longitude": 28.1887246
+    },
+    {
+      "name": "Ms Baatseba Mothoa",
+      "title": "Psychologist - Clinical",
+      "location": "Arcadia, Pretoria, Gauteng",
+      "description": "Forensic Assessment, Group Psychotherapy, Head Injuries, Individual, Couple's and Family Therapy, ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=172362",
+      "latitude": -25.7457548,
+      "longitude": 28.204988
+    },
+    {
+      "name": "Miss Nondumiso Mphambo",
+      "title": "Psychologist - Clinical",
+      "location": "Scottsville, Pietermaritzburg, KwaZulu-Natal",
+      "description": "Adjustment Disorders, Anxiety Disorder, Psychological Assessment, Psychotherapy (Couples & ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=211604",
+      "latitude": -29.6160179,
+      "longitude": 30.3924442
+    },
+    {
+      "name": "Ms Phumzile Mthembu",
+      "title": "Psychologist - Clinical",
+      "location": "Richards Bay, Richards Bay, KwaZulu-Natal",
+      "description": "Burnout, Depression & Anxiety, IQ, Learning Problems, Marital Issues, Medico Legal Evaluation, ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=382156",
+      "latitude": -28.7499009,
+      "longitude": 32.054068
+    },
+    {
+      "name": "Mr Johann Arnold Nepgen",
+      "title": "Psychologist - Clinical",
+      "location": "Constantia, Cape Town, Western Cape",
+      "description": "Addiction, Adult Psychotherapy, Anxiety & Stress Management, Breathwork, Depression, Eye Movement ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=64412",
+      "latitude": -34.007627,
+      "longitude": 18.4265485
+    },
+    {
+      "name": "Ms Prishika Pillay",
+      "title": "Psychologist - Clinical",
+      "location": "Pietermaritzburg, Pietermaritzburg, KwaZulu-Natal",
+      "description": "Domestic Abuse, Psychological Assessment, Stress Management",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=87041",
+      "latitude": -29.6061,
+      "longitude": 30.3874
+    },
+    {
+      "name": "Dr Kameshnee Ramsammy",
+      "title": "Psychologist - Clinical",
+      "location": "Newton Park, Gqeberha, Eastern Cape",
+      "description": "Adolescents, Adults, Anxiety, Bipolar, Couples, Depression, Eating Disorders, Gender Dysphoria, ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=118986",
+      "latitude": -33.9448762,
+      "longitude": 25.5660267
+    },
+    {
+      "name": "Dr Lynette Mary Roux",
+      "title": "Psychologist - Clinical",
+      "location": "Benoni, Benoni, Gauteng",
+      "description": "Abuse Assessments, Adolescent Psychotherapy, Adult Psychotherapy, Child Psychology, Forensic ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=35314",
+      "latitude": -26.1375735,
+      "longitude": 28.3146539
+    },
+    {
+      "name": "Dr Tumisang Precious Sedumedi",
+      "title": "Psychologist - Clinical",
+      "location": "Edenburg, Sandton, Gauteng",
+      "description": "Adolescent Therapy from 18 Years Old, Adult Individual Therapy, Anger Management, Anxiety, ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=181543",
+      "latitude": -26.0637223,
+      "longitude": 28.064587
+    },
+    {
+      "name": "Dr Lebogang Phildah Selahle",
+      "title": "Psychologist - Clinical",
+      "location": "Polokwane, Polokwane, Limpopo",
+      "description": "Children Psychotherapy, Competency-based Occupational Assessment, Employee Assessment Program, ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=88189",
+      "latitude": -23.8982919,
+      "longitude": 29.4609289
+    },
+    {
+      "name": "Dr Mandu Selepe",
+      "title": "Psychologist - Clinical",
+      "location": "Polokwane, Polokwane, Limpopo",
+      "description": "African Psychology, Brain Profiling, Career Assessments, Career Guidance, Group Counseling/Family ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=149960",
+      "latitude": -23.90929,
+      "longitude": 29.46484
+    },
+    {
+      "name": "Dr Portia Mpho Sepato",
+      "title": "Psychologist - Clinical",
+      "location": "Clydesdale, Pretoria, Gauteng",
+      "description": "Addictive and Self Harming, Adjustment Difficulties, Anxiety, Depression, Family Therapy, Life ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=93450",
+      "latitude": -25.7533119,
+      "longitude": 28.2187831
+    },
+    {
+      "name": "Ms Kgomotso Siwelane",
+      "title": "Psychologist - Clinical",
+      "location": "Lyttelton Manor, Centurion, Gauteng",
+      "description": "Adjustment Disorders, Anxiety, Bereavement, Career Guidance, Child Therapy, Chronic disease ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=1958628",
+      "latitude": -25.8433098,
+      "longitude": 28.2037935
+    },
+    {
+      "name": "Dr Edzisani Egnes Sodi",
+      "title": "Psychologist - Clinical",
+      "location": "Polokwane, Polokwane, Limpopo",
+      "description": "Counselling & Psychotherapy for Children & Adults, Couple & Relationship Therapy, General ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=175628",
+      "latitude": -23.90181,
+      "longitude": 29.46772
+    },
+    {
+      "name": "Ms Cheryl Sol",
+      "title": "Psychologist - Clinical",
+      "location": "Kloof, Kloof, KwaZulu-Natal",
+      "description": "Bipolar Disorder, Depression, Domestic Violence, Health Issues, Infertility, Life Changes, Phobias ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=36618",
+      "latitude": -29.793172,
+      "longitude": 30.83439
+    },
+    {
+      "name": "Mr Thabang Tlaka",
+      "title": "Psychologist - Clinical",
+      "location": "Arcadia, Pretoria, Gauteng",
+      "description": "Anxiety, Assessment, Bereavement Counselling, Counselling, Depression, Emotional Difficulties, ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=214670",
+      "latitude": -25.7453937,
+      "longitude": 28.2190822
+    },
+    {
+      "name": "Mrs Rainah Tshehla",
+      "title": "Psychologist - Clinical",
+      "location": "Arborpark, Tzaneen, Limpopo",
+      "description": "MA (Clinical Psych) Limpopo (2022), B Psych SACAP (2019), Cert Basic Amb Asst LATA (2010)",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=1940642",
+      "latitude": -23.83752,
+      "longitude": 30.16685
+    },
+    {
+      "name": "Mr Thulani Vazi",
+      "title": "Psychologist - Clinical",
+      "location": "Mdantsane, Mdantsane, Eastern Cape",
+      "description": "Adolescent and Adult Psychotherapy, Neuropsychological Assessments, Psycholegal Evaluations, ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=266989",
+      "latitude": -32.9425051,
+      "longitude": 27.7598664
+    },
+    {
+      "name": "Mrs Chrisna Visagie",
+      "title": "Psychologist - Clinical",
+      "location": "Welgemoed, Cape Town, Western Cape",
+      "description": "Adjustment to Life Events, Anxiety Disorders, Loss, Grief & Bereavement, Mood Disorders, Personal ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=37046",
+      "latitude": -33.8690524,
+      "longitude": 18.6140603
+    },
+    {
+      "name": "Dr Zubeda Dangor",
+      "title": "Psychologist - Clinical",
+      "location": "Lenasia Ext 5, Lenasia, Gauteng",
+      "description": null,
+      "latitude": -26.3120791,
+      "longitude": 27.8402982
+    },
+    {
+      "name": "Dr Linda M Eskell Blokland",
+      "title": "Psychologist - Clinical",
+      "location": "Lynnwood, Pretoria, Gauteng",
+      "description": null,
+      "latitude": -25.76838,
+      "longitude": 28.267479
+    },
+    {
+      "name": "Dr Mantwa Welhemina Modiba",
+      "title": "Psychologist - Clinical",
+      "location": "Polokwane, Polokwane, Limpopo",
+      "description": null,
+      "latitude": -23.9058135,
+      "longitude": 29.4647897
+    },
+    {
+      "name": "Dr Bareng Job Kenneth Motshwane",
+      "title": "Psychologist - Clinical",
+      "location": "Pretoria, Pretoria, Gauteng",
+      "description": null,
+      "latitude": -25.7484,
+      "longitude": 28.1963
+    },
+    {
+      "name": "Dr Hanru Niemand",
+      "title": "Psychologist - Clinical",
+      "location": "Durbanville, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.843912,
+      "longitude": 18.6456289
+    },
+    {
+      "name": "Miss Warda Arnolds",
+      "title": "Psychologist - Clinical",
+      "location": "Stellenbosch, Stellenbosch, Western Cape",
+      "description": "",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=215403",
+      "latitude": -33.9346154,
+      "longitude": 18.8614845
+    },
+    {
+      "name": "Mrs Elise Beeby",
+      "title": "Psychologist - Clinical",
+      "location": "West Beach, Cape Town, Western Cape",
+      "description": "",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=34955",
+      "latitude": -33.8074486,
+      "longitude": 18.4810156
+    },
+    {
+      "name": "Miss Maia Sarah Zway",
+      "title": "Psychologist - Clinical",
+      "location": "Newlands, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9790289,
+      "longitude": 18.459848
+    },
+    {
+      "name": "Mrs Lucille Zwemstra",
+      "title": "Psychologist - Clinical",
+      "location": "Hartbeespoort, Hartbeespoort, North West",
+      "description": null,
+      "latitude": -25.7353482,
+      "longitude": 27.8964958
+    },
+    {
+      "name": "Mrs Sarah Zworestine",
+      "title": "Psychologist - Clinical",
+      "location": "Mouille Point, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.90217,
+      "longitude": 18.3998199
+    }
+  ]
+}

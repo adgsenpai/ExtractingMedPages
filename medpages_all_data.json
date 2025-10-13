@@ -1,0 +1,94 @@
+{
+  "Registered Counsellor": [
+    {
+      "name": "Dr Kate Rebecca Browde",
+      "title": "Allergologist",
+      "location": "Pinelands, Cape Town, Western Cape",
+      "description": "Acute Conditions Affecting Children, All Allergic conditions in Children and Adults, ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=183285",
+      "latitude": -33.9431585,
+      "longitude": 18.4903171
+    },
+    {
+      "name": "Dr Sarah Jane Karabus",
+      "title": "Allergologist",
+      "location": "Foreshore, Cape Town, Western Cape",
+      "description": "Allergic Rhinitis, Asthma, Bee Sting Allergy, Drug Allergy, Eczema, Food Allergies, Hay Fever, ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=88824",
+      "latitude": -33.917846,
+      "longitude": 18.4308122
+    },
+    {
+      "name": "Dr Nelandra Chetty",
+      "title": "Allergologist",
+      "location": "Woodhurst, Chatsworth, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.9094442,
+      "longitude": 30.9066499
+    },
+    {
+      "name": "Dr Pieter Johannes De Waal",
+      "title": "Allergologist",
+      "location": "Panorama, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.8767124,
+      "longitude": 18.5768042
+    },
+    {
+      "name": "Prof Claudia Liesel Gray",
+      "title": "Allergologist",
+      "location": "Pinelands, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9430264,
+      "longitude": 18.4892271
+    },
+    {
+      "name": "Dr Michael Eliad Levin",
+      "title": "Allergologist",
+      "location": "Rondebosch, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9539008,
+      "longitude": 18.488615
+    },
+    {
+      "name": "Dr Tshegofatso Mabelane",
+      "title": "Allergologist",
+      "location": "Morningside, Sandton, Gauteng",
+      "description": null,
+      "latitude": -26.0948644,
+      "longitude": 28.055338
+    },
+    {
+      "name": "Dr Ahmed Ismail Manjra",
+      "title": "Allergologist",
+      "location": "Dawncliffe, Westville, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.8512736,
+      "longitude": 30.932659
+    },
+    {
+      "name": "Dr Makgoane Frederick Mokgoadi",
+      "title": "Allergologist",
+      "location": "Polokwane, Polokwane, Limpopo",
+      "description": null,
+      "latitude": -23.9127702,
+      "longitude": 29.4569401
+    },
+    {
+      "name": "Dr Jonathan Grant Peter",
+      "title": "Allergologist",
+      "location": "Mowbray, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9456531,
+      "longitude": 18.467423
+    },
+    {
+      "name": "Prof Paul Charles Potter",
+      "title": "Allergologist",
+      "location": "Mowbray, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9455952,
+      "longitude": 18.4674123
+    }
+  ]
+}
