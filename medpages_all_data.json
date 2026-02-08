@@ -196,8 +196,8 @@
       "title": "Clinical Pharmacologist",
       "location": "Parow, Cape Town, Western Cape",
       "description": null,
-      "latitude": -33.9896078,
-      "longitude": 18.6533269
+      "latitude": -33.9895188,
+      "longitude": 18.6533591
     },
     {
       "name": "Dr Memela MacDonald Makiwane",
@@ -270,6 +270,25 @@
       "description": null,
       "latitude": -29.1076487,
       "longitude": 26.192377
+    }
+  ],
+  "Diabetologist (Algeria)": [
+    {
+      "name": "Dr Ilana Joubert",
+      "title": "Diabetologist (Algeria)",
+      "location": "Windsor Park, Cape Town, Western Cape",
+      "description": "",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=182154",
+      "latitude": -33.8505375,
+      "longitude": 18.6998568
+    },
+    {
+      "name": "Dr Julien Shane Trokis",
+      "title": "Diabetologist (Algeria)",
+      "location": "Windsor Park, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.8505375,
+      "longitude": 18.6998568
     }
   ],
   "Community Health specialist": [
@@ -432,25 +451,6 @@
       "description": null,
       "latitude": -26.1913776,
       "longitude": 28.043363
-    }
-  ],
-  "Diabetologist (Algeria)": [
-    {
-      "name": "Dr Ilana Joubert",
-      "title": "Diabetologist (Algeria)",
-      "location": "Windsor Park, Cape Town, Western Cape",
-      "description": "",
-      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=182154",
-      "latitude": -33.8505375,
-      "longitude": 18.6998568
-    },
-    {
-      "name": "Dr Julien Shane Trokis",
-      "title": "Diabetologist (Algeria)",
-      "location": "Windsor Park, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.8505375,
-      "longitude": 18.6998568
     }
   ],
   "Anaesthetist (Critical Care)": [
@@ -945,78 +945,6 @@
       "longitude": 30.9591733
     },
     {
-      "name": "Dr Hendrik Johannes Van Der Merwe",
-      "title": "Cardiothoracic Surgeon",
-      "location": "Sunningdale, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.8041624,
-      "longitude": 18.4833759
-    },
-    {
-      "name": "Dr Sonja Elizabeth Van Riet",
-      "title": "Cardiothoracic Surgeon",
-      "location": "Amalinda, East London, Eastern Cape",
-      "description": null,
-      "latitude": -32.996024,
-      "longitude": 27.8917942
-    },
-    {
-      "name": "Dr Hendrik Willem Jacobus (Jacques) Van Wyk",
-      "title": "Cardiothoracic Surgeon",
-      "location": "Panorama, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.875774,
-      "longitude": 18.5778836
-    },
-    {
-      "name": "Dr Nicholas Louis Francois Van Zijl",
-      "title": "Cardiothoracic Surgeon",
-      "location": "Muckleneuk, Pretoria, Gauteng",
-      "description": null,
-      "latitude": -25.7622389,
-      "longitude": 28.2054744
-    },
-    {
-      "name": "Dr Karin Verschave",
-      "title": "Cardiothoracic Surgeon",
-      "location": "Die Wilgers, Pretoria, Gauteng",
-      "description": null,
-      "latitude": -25.7682,
-      "longitude": 28.3194
-    },
-    {
-      "name": "Dr Bernhard Carl Vogts",
-      "title": "Cardiothoracic Surgeon",
-      "location": "Panorama, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.8758615,
-      "longitude": 18.5778577
-    },
-    {
-      "name": "Dr Susanna Maria (Susan) Vosloo",
-      "title": "Cardiothoracic Surgeon",
-      "location": "Foreshore, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9177338,
-      "longitude": 18.4307814
-    },
-    {
-      "name": "Dr Riegardt Wagenaar",
-      "title": "Cardiothoracic Surgeon",
-      "location": "Floracliffe, Roodepoort, Gauteng",
-      "description": null,
-      "latitude": -26.1512158,
-      "longitude": 27.9198336
-    },
-    {
-      "name": "Dr Jacobus De La Rey Winter",
-      "title": "Cardiothoracic Surgeon",
-      "location": "Umhlanga Rocks, Umhlanga, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.7228747,
-      "longitude": 31.071982
-    },
-    {
       "name": "Dr Ellias Zigiriadis",
       "title": "Cardiothoracic Surgeon",
       "location": "Krugersdorp, Krugersdorp, Gauteng",
@@ -1129,14 +1057,6 @@
       "description": null,
       "latitude": -25.7682167,
       "longitude": 28.3194001
-    },
-    {
-      "name": "Ms Arehone Godzwana",
-      "title": "Clinical Associate",
-      "location": "Lenasia Ext 8, Lenasia, Gauteng",
-      "description": null,
-      "latitude": -26.3278493,
-      "longitude": 27.8636983
     },
     {
       "name": "Ms Cassandra Faye Goris",
@@ -1347,12 +1267,12 @@
       "longitude": 31.6486804
     },
     {
-      "name": "Miss Robyn Smith",
+      "name": "Mr Katlego Phineas Mathiba",
       "title": "Clinical Associate",
-      "location": "Sunward Park, Boksburg, Gauteng",
+      "location": "Les Marais, Pretoria, Gauteng",
       "description": null,
-      "latitude": -26.2598301,
-      "longitude": 28.2566666
+      "latitude": -25.7095836,
+      "longitude": 28.1944154
     },
     {
       "name": "Miss Tsholofelo Thelma Thae-Leboko",
@@ -1733,22 +1653,6 @@
       "longitude": 30.986795
     },
     {
-      "name": "Dr Claire Zondagh",
-      "title": "Anaesthetist",
-      "location": "Sunningdale, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.8037645,
-      "longitude": 18.4835129
-    },
-    {
-      "name": "Dr Sizwe Clifford Zungu",
-      "title": "Anaesthetist",
-      "location": "Bulwer, Berea, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.855837,
-      "longitude": 30.9912915
-    },
-    {
       "name": "Dr Sabelo Freddy Zwane",
       "title": "Anaesthetist",
       "location": "Masons Mill, Pietermaritzburg, KwaZulu-Natal",
@@ -2103,6 +2007,14 @@
       "longitude": 27.9020403
     },
     {
+      "name": "Dr Denise Bernadette Warries",
+      "title": "Dermatologist",
+      "location": "Bryanston West, Sandton, Gauteng",
+      "description": null,
+      "latitude": -26.0784076,
+      "longitude": 28.0120794
+    },
+    {
       "name": "Dr Ian Keith Webster",
       "title": "Dermatologist",
       "location": "Audas Est, Cape Town, Western Cape",
@@ -2167,16 +2079,6 @@
       "description": null,
       "latitude": -26.1830142,
       "longitude": 28.0138992
-    }
-  ],
-  "Neurosurgeon (Critical Care)": [
-    {
-      "name": "Dr Christel Arnold-Day",
-      "title": "Neurosurgeon (Critical Care)",
-      "location": "Observatory, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9424462,
-      "longitude": 18.4632552
     }
   ],
   "Medical Geneticist": [
@@ -2663,14 +2565,6 @@
       "longitude": 18.4103282
     },
     {
-      "name": "Dr Brian Henry Craster Williams",
-      "title": "Ear, Nose & Throat Surgeon (ENT)",
-      "location": "Ballito, Dolphin Coast, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.52926,
-      "longitude": 31.2016862
-    },
-    {
       "name": "Dr Brian Lester Wolfowitz",
       "title": "Ear, Nose & Throat Surgeon (ENT)",
       "location": "Saxonwold, Randburg, Gauteng",
@@ -2693,6 +2587,16 @@
       "description": null,
       "latitude": -34.0365847,
       "longitude": 23.0436187
+    }
+  ],
+  "Neurosurgeon (Critical Care)": [
+    {
+      "name": "Dr Christel Arnold-Day",
+      "title": "Neurosurgeon (Critical Care)",
+      "location": "Observatory, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9424462,
+      "longitude": 18.4632552
     }
   ],
   "Emergency Medicine specialist": [
@@ -3073,6 +2977,24 @@
       "longitude": 18.8662888
     }
   ],
+  "Obstetrician & Gynaecologist (Critical Care)": [
+    {
+      "name": "Prof Shastra Avendra Bhoora",
+      "title": "Obstetrician & Gynaecologist (Critical Care)",
+      "location": "Parktown, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1753708,
+      "longitude": 28.045697
+    },
+    {
+      "name": "Prof Fathima Paruk",
+      "title": "Obstetrician & Gynaecologist (Critical Care)",
+      "location": "Pretoria, Pretoria, Gauteng",
+      "description": null,
+      "latitude": -25.7294842,
+      "longitude": 28.2023945
+    }
+  ],
   "Family Physician": [
     {
       "name": "Dr Sibusiso Dumisani Lincoln Archie Mhlambi",
@@ -3434,6 +3356,54 @@
       "longitude": 18.3876486
     },
     {
+      "name": "Dr Beverley Ray Williams",
+      "title": "Family Physician",
+      "location": "Malmesbury, Malmesbury, Western Cape",
+      "description": null,
+      "latitude": -33.4545615,
+      "longitude": 18.723145
+    },
+    {
+      "name": "Dr Brenda Alison Witt",
+      "title": "Family Physician",
+      "location": "Parkmore, Sandton, Gauteng",
+      "description": null,
+      "latitude": -26.0992969,
+      "longitude": 28.0460825
+    },
+    {
+      "name": "Dr Felix Ikechi Woke",
+      "title": "Family Physician",
+      "location": "Pretoria, Pretoria, Gauteng",
+      "description": null,
+      "latitude": -25.7512998,
+      "longitude": 28.1906464
+    },
+    {
+      "name": "Dr Erfan Yeganeh - Arani",
+      "title": "Family Physician",
+      "location": "Sunnyside, Pretoria, Gauteng",
+      "description": null,
+      "latitude": -25.7580293,
+      "longitude": 28.2147024
+    },
+    {
+      "name": "Prof Parimalaranie Yogeswaran",
+      "title": "Family Physician",
+      "location": "Unitra, Mthatha, Eastern Cape",
+      "description": null,
+      "latitude": -31.6034687,
+      "longitude": 28.7507637
+    },
+    {
+      "name": "Dr Mata Jean Louis Yoko",
+      "title": "Family Physician",
+      "location": "Waterval, Rustenburg, North West",
+      "description": null,
+      "latitude": -25.6935228,
+      "longitude": 27.259357
+    },
+    {
       "name": "Dr Cathelijn Zeijlemaker",
       "title": "Family Physician",
       "location": "Sandton, Sandton, Gauteng",
@@ -3464,24 +3434,6 @@
       "description": null,
       "latitude": -29.1169843,
       "longitude": 26.2225945
-    }
-  ],
-  "Obstetrician & Gynaecologist (Critical Care)": [
-    {
-      "name": "Prof Shastra Avendra Bhoora",
-      "title": "Obstetrician & Gynaecologist (Critical Care)",
-      "location": "Parktown, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1753708,
-      "longitude": 28.045697
-    },
-    {
-      "name": "Prof Fathima Paruk",
-      "title": "Obstetrician & Gynaecologist (Critical Care)",
-      "location": "Pretoria, Pretoria, Gauteng",
-      "description": null,
-      "latitude": -25.7294842,
-      "longitude": 28.2023945
     }
   ],
   "General Practitioner (GP)": [
@@ -3666,15 +3618,6 @@
       "longitude": 28.1218228
     },
     {
-      "name": "Dr Zaheera Ebrahim",
-      "title": "General Practitioner (GP)",
-      "location": "Kensington, Johannesburg, Gauteng",
-      "description": "MBBCh Witwatersrand (1998)",
-      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=82122",
-      "latitude": -26.1915132,
-      "longitude": 28.0855321
-    },
-    {
       "name": "Dr John Raymond Griffith",
       "title": "General Practitioner (GP)",
       "location": "Sandton City, Sandton, Gauteng",
@@ -3844,6 +3787,55 @@
       "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=165818",
       "latitude": -25.7546886,
       "longitude": 28.3251174
+    },
+    {
+      "name": "Dr Ayodele Olufemi Oladoja",
+      "title": "General Practitioner (GP)",
+      "location": "Greyville, Berea, KwaZulu-Natal",
+      "description": "Chronic Patients, Emergencies, Gynaecology, Men's Clinic, Obstetrics, Pediatrics",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=418355",
+      "latitude": -29.8587696,
+      "longitude": 31.0082211
+    },
+    {
+      "name": "Dr Mishack Patson Zwane",
+      "title": "General Practitioner (GP)",
+      "location": "Rembrandtpark, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.12205,
+      "longitude": 28.12169
+    },
+    {
+      "name": "Dr Doricah Mmabatshedi Zwane (Motlhaga)",
+      "title": "General Practitioner (GP)",
+      "location": "Olievenhoutbosch Ext 36, Centurion, Gauteng",
+      "description": null,
+      "latitude": -25.8961169,
+      "longitude": 28.1001804
+    },
+    {
+      "name": "Dr Mxolisi Lindani Zwane",
+      "title": "General Practitioner (GP)",
+      "location": "Tsakane, Brakpan, Gauteng",
+      "description": null,
+      "latitude": -26.3400419,
+      "longitude": 28.3773404
+    },
+    {
+      "name": "Dr Nkosinathi Owen Zwane",
+      "title": "General Practitioner (GP)",
+      "location": "Nongoma, Nongoma, KwaZulu-Natal",
+      "description": null,
+      "latitude": -27.9120506,
+      "longitude": 31.6486804
+    },
+    {
+      "name": "Dr Nonkululeko Jacqueline Zwane",
+      "title": "General Practitioner (GP)",
+      "location": "Blackheath, Randburg, Gauteng",
+      "description": null,
+      "latitude": -26.1336497,
+      "longitude": 27.9692716
     },
     {
       "name": "Dr Sandile Zwane",
@@ -4639,283 +4631,6 @@
       "longitude": 28.0174485
     }
   ],
-  "Obstetrician & Gynaecologist (Gynae Oncology)": [
-    {
-      "name": "Dr Edwin France Mnisi",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Montanapark, Pretoria, Gauteng",
-      "description": "Cancer, Female Reproductive Conditions, Gynaecological Oncology",
-      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=81026",
-      "latitude": -25.6754676,
-      "longitude": 28.2440755
-    },
-    {
-      "name": "Dr Anusha Naidoo",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Bryanston, Sandton, Gauteng",
-      "description": "Adolescent Gynaecology, Colposcopy Clinic, Laparoscopy, Menopause, Obstetrics, Pelvic Organ ...",
-      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=140247",
-      "latitude": -26.077638,
-      "longitude": 28.0122606
-    },
-    {
-      "name": "Dr Elizabeth Johanna Catharina Hugo",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Somerset West, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -34.0907006,
-      "longitude": 18.8587832
-    },
-    {
-      "name": "Dr Nthlarhi Wiseman Mathonsi",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Midstream Estate, Olifantsfontein, Gauteng",
-      "description": "",
-      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=124885",
-      "latitude": -25.9253227,
-      "longitude": 28.1820663
-    },
-    {
-      "name": "Dr Tracey Sheridan Adams",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Observatory, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9410671,
-      "longitude": 18.4617212
-    },
-    {
-      "name": "Dr Haleema Addae",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Oosterville, Upington, Northern Cape",
-      "description": null,
-      "latitude": -28.4393975,
-      "longitude": 21.2669331
-    },
-    {
-      "name": "Prof Matthys Hendrik (Hennie) Botha",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Parow, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9106242,
-      "longitude": 18.6129482
-    },
-    {
-      "name": "Dr Emma Pauline Bryant",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Groenkloof, Pretoria, Gauteng",
-      "description": null,
-      "latitude": -25.771333,
-      "longitude": 28.2161659
-    },
-    {
-      "name": "Dr Jennifer Leigh Butt",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Parow, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9106242,
-      "longitude": 18.6129482
-    },
-    {
-      "name": "Dr Sedick Ahmed Camroodien",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Gatesville, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9700534,
-      "longitude": 18.5332265
-    },
-    {
-      "name": "Dr Catherine Maria Cornelia Dehaeck",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Pinelands, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.944458,
-      "longitude": 18.4899294
-    },
-    {
-      "name": "Dr Makhosini Emmanuel Dlamini",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Empangeni, Empangeni, KwaZulu-Natal",
-      "description": null,
-      "latitude": -28.7400845,
-      "longitude": 31.8956915
-    },
-    {
-      "name": "Prof Greta Dreyer",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Arcadia, Pretoria, Gauteng",
-      "description": null,
-      "latitude": -25.739977,
-      "longitude": 28.2001643
-    },
-    {
-      "name": "Dr Nwabisa Giyose",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Norwood, Mthatha, Eastern Cape",
-      "description": null,
-      "latitude": -31.5929324,
-      "longitude": 28.7817389
-    },
-    {
-      "name": "Dr Kamendran Govender",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Newlands East, Newlands East, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.77753,
-      "longitude": 30.9957804
-    },
-    {
-      "name": "Prof Franco Guidozzi",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Parktown, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1816931,
-      "longitude": 28.0464551
-    },
-    {
-      "name": "Dr Matsiane Luciah Lekala",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Polokwane, Polokwane, Limpopo",
-      "description": null,
-      "latitude": -23.9088393,
-      "longitude": 29.4631736
-    },
-    {
-      "name": "Dr Francisca Elizabeth Loggenberg",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Royldene, Kimberley, Northern Cape",
-      "description": null,
-      "latitude": -28.7562665,
-      "longitude": 24.7619926
-    },
-    {
-      "name": "Dr Mfundiso Samson Mabenge",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Zwide Ext 3, Ibhayi, Eastern Cape",
-      "description": null,
-      "latitude": -33.8793293,
-      "longitude": 25.5614002
-    },
-    {
-      "name": "Dr Atisha Maharaj",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Cato Manor, Durban, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.8737421,
-      "longitude": 30.9590884
-    },
-    {
-      "name": "Dr Bongumusa Steven Makhathini",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Pietermaritzburg, Pietermaritzburg, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.5925193,
-      "longitude": 30.3911344
-    },
-    {
-      "name": "Dr Vusumuzi David Maringa",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Parktown, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1841503,
-      "longitude": 28.0461941
-    },
-    {
-      "name": "Dr Langanani Mbodi",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Pine Haven, Krugersdorp, Gauteng",
-      "description": null,
-      "latitude": -26.0618603,
-      "longitude": 27.8300321
-    },
-    {
-      "name": "Dr Avuyile Mguga",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Korsten, Gqeberha, Eastern Cape",
-      "description": null,
-      "latitude": -33.9358628,
-      "longitude": 25.5828071
-    },
-    {
-      "name": "Dr Garish Masungi Mohlaba",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Mankweng, Polokwane, Limpopo",
-      "description": null,
-      "latitude": -23.8806633,
-      "longitude": 29.7259981
-    },
-    {
-      "name": "Dr Setheme Daniel (Tumi) Mosehle",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Arcadia, Pretoria, Gauteng",
-      "description": null,
-      "latitude": -25.7480022,
-      "longitude": 28.1986866
-    },
-    {
-      "name": "Dr Maidei Mugwede",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Glen Austin, Midrand, Gauteng",
-      "description": null,
-      "latitude": -26.0297689,
-      "longitude": 28.1395334
-    },
-    {
-      "name": "Dr Fitzgerald Zwide Nxumalo",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Parktown, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1817732,
-      "longitude": 28.0464505
-    },
-    {
-      "name": "Dr Neesha Rajoo",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Arcadia, Pretoria, Gauteng",
-      "description": null,
-      "latitude": -25.7398635,
-      "longitude": 28.2001506
-    },
-    {
-      "name": "Dr Dominic Giles Dudley Richards",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Green Point, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9059021,
-      "longitude": 18.4160619
-    },
-    {
-      "name": "Dr Trudy Heidi Smith",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Parktown, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1789951,
-      "longitude": 28.0343943
-    },
-    {
-      "name": "Dr Matthys Cornelis Van Aardt",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Erasmuskloof Ext 3, Pretoria, Gauteng",
-      "description": null,
-      "latitude": -25.8114117,
-      "longitude": 28.2632635
-    },
-    {
-      "name": "Dr Frederick Haynes Van Der Merwe",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Parow, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9106131,
-      "longitude": 18.6129573
-    },
-    {
-      "name": "Dr Elize Isabella Wethmar",
-      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
-      "location": "Benoni, Benoni, Gauteng",
-      "description": null,
-      "latitude": -26.1947178,
-      "longitude": 28.3078268
-    }
-  ],
   "Nuclear Medicine specialist": [
     {
       "name": "Dr Masha Maharaj",
@@ -5286,6 +5001,283 @@
       "description": null,
       "latitude": -25.7684757,
       "longitude": 28.3198759
+    }
+  ],
+  "Obstetrician & Gynaecologist (Gynae Oncology)": [
+    {
+      "name": "Dr Edwin France Mnisi",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Montanapark, Pretoria, Gauteng",
+      "description": "Cancer, Female Reproductive Conditions, Gynaecological Oncology",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=81026",
+      "latitude": -25.6754676,
+      "longitude": 28.2440755
+    },
+    {
+      "name": "Dr Anusha Naidoo",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Bryanston, Sandton, Gauteng",
+      "description": "Adolescent Gynaecology, Colposcopy Clinic, Laparoscopy, Menopause, Obstetrics, Pelvic Organ ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=140247",
+      "latitude": -26.077638,
+      "longitude": 28.0122606
+    },
+    {
+      "name": "Dr Elizabeth Johanna Catharina Hugo",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Somerset West, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -34.0907006,
+      "longitude": 18.8587832
+    },
+    {
+      "name": "Dr Nthlarhi Wiseman Mathonsi",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Midstream Estate, Olifantsfontein, Gauteng",
+      "description": "",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=124885",
+      "latitude": -25.9253227,
+      "longitude": 28.1820663
+    },
+    {
+      "name": "Dr Tracey Sheridan Adams",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Observatory, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9410671,
+      "longitude": 18.4617212
+    },
+    {
+      "name": "Dr Haleema Addae",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Oosterville, Upington, Northern Cape",
+      "description": null,
+      "latitude": -28.4393975,
+      "longitude": 21.2669331
+    },
+    {
+      "name": "Prof Matthys Hendrik (Hennie) Botha",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Parow, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9106242,
+      "longitude": 18.6129482
+    },
+    {
+      "name": "Dr Emma Pauline Bryant",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Groenkloof, Pretoria, Gauteng",
+      "description": null,
+      "latitude": -25.771333,
+      "longitude": 28.2161659
+    },
+    {
+      "name": "Dr Jennifer Leigh Butt",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Parow, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9106242,
+      "longitude": 18.6129482
+    },
+    {
+      "name": "Dr Sedick Ahmed Camroodien",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Gatesville, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9700534,
+      "longitude": 18.5332265
+    },
+    {
+      "name": "Dr Catherine Maria Cornelia Dehaeck",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Pinelands, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.944458,
+      "longitude": 18.4899294
+    },
+    {
+      "name": "Dr Makhosini Emmanuel Dlamini",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Empangeni, Empangeni, KwaZulu-Natal",
+      "description": null,
+      "latitude": -28.7400845,
+      "longitude": 31.8956915
+    },
+    {
+      "name": "Prof Greta Dreyer",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Arcadia, Pretoria, Gauteng",
+      "description": null,
+      "latitude": -25.739977,
+      "longitude": 28.2001643
+    },
+    {
+      "name": "Dr Nwabisa Giyose",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Norwood, Mthatha, Eastern Cape",
+      "description": null,
+      "latitude": -31.5929324,
+      "longitude": 28.7817389
+    },
+    {
+      "name": "Dr Kamendran Govender",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Newlands East, Newlands East, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.77753,
+      "longitude": 30.9957804
+    },
+    {
+      "name": "Prof Franco Guidozzi",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Parktown, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1816931,
+      "longitude": 28.0464551
+    },
+    {
+      "name": "Dr Matsiane Luciah Lekala",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Polokwane, Polokwane, Limpopo",
+      "description": null,
+      "latitude": -23.9088393,
+      "longitude": 29.4631736
+    },
+    {
+      "name": "Dr Francisca Elizabeth Loggenberg",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Royldene, Kimberley, Northern Cape",
+      "description": null,
+      "latitude": -28.7562665,
+      "longitude": 24.7619926
+    },
+    {
+      "name": "Dr Mfundiso Samson Mabenge",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Zwide Ext 3, Ibhayi, Eastern Cape",
+      "description": null,
+      "latitude": -33.8793293,
+      "longitude": 25.5614002
+    },
+    {
+      "name": "Dr Atisha Maharaj",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Cato Manor, Durban, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.8737421,
+      "longitude": 30.9590884
+    },
+    {
+      "name": "Dr Bongumusa Steven Makhathini",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Pietermaritzburg, Pietermaritzburg, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.5925193,
+      "longitude": 30.3911344
+    },
+    {
+      "name": "Dr Vusumuzi David Maringa",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Parktown, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1841503,
+      "longitude": 28.0461941
+    },
+    {
+      "name": "Dr Langanani Mbodi",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Pine Haven, Krugersdorp, Gauteng",
+      "description": null,
+      "latitude": -26.0618603,
+      "longitude": 27.8300321
+    },
+    {
+      "name": "Dr Avuyile Mguga",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Korsten, Gqeberha, Eastern Cape",
+      "description": null,
+      "latitude": -33.9358628,
+      "longitude": 25.5828071
+    },
+    {
+      "name": "Dr Garish Masungi Mohlaba",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Mankweng, Polokwane, Limpopo",
+      "description": null,
+      "latitude": -23.8806633,
+      "longitude": 29.7259981
+    },
+    {
+      "name": "Dr Setheme Daniel (Tumi) Mosehle",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Arcadia, Pretoria, Gauteng",
+      "description": null,
+      "latitude": -25.7480022,
+      "longitude": 28.1986866
+    },
+    {
+      "name": "Dr Maidei Mugwede",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Glen Austin, Midrand, Gauteng",
+      "description": null,
+      "latitude": -26.0297689,
+      "longitude": 28.1395334
+    },
+    {
+      "name": "Dr Fitzgerald Zwide Nxumalo",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Parktown, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1817732,
+      "longitude": 28.0464505
+    },
+    {
+      "name": "Dr Neesha Rajoo",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Arcadia, Pretoria, Gauteng",
+      "description": null,
+      "latitude": -25.7398635,
+      "longitude": 28.2001506
+    },
+    {
+      "name": "Dr Dominic Giles Dudley Richards",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Green Point, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9046733,
+      "longitude": 18.4169202
+    },
+    {
+      "name": "Dr Trudy Heidi Smith",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Parktown, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1789951,
+      "longitude": 28.0343943
+    },
+    {
+      "name": "Dr Matthys Cornelis Van Aardt",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Erasmuskloof Ext 3, Pretoria, Gauteng",
+      "description": null,
+      "latitude": -25.8114117,
+      "longitude": 28.2632635
+    },
+    {
+      "name": "Dr Frederick Haynes Van Der Merwe",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Parow, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9106131,
+      "longitude": 18.6129573
+    },
+    {
+      "name": "Dr Elize Isabella Wethmar",
+      "title": "Obstetrician & Gynaecologist (Gynae Oncology)",
+      "location": "Benoni, Benoni, Gauteng",
+      "description": null,
+      "latitude": -26.1947178,
+      "longitude": 28.3078268
     }
   ],
   "Obstetrician & Gynaecologist (Maternal Foetal Med)": [
@@ -5782,8 +5774,8 @@
       "title": "Obstetrician & Gynaecologist (Urogynaecologist)",
       "location": "Brooklyn, Pretoria, Gauteng",
       "description": null,
-      "latitude": -25.7694686,
-      "longitude": 28.2359754
+      "latitude": -25.769372,
+      "longitude": 28.2358896
     },
     {
       "name": "Dr Jacobus Albertus (Kobus) van Rensburg",
@@ -5800,24 +5792,6 @@
       "description": null,
       "latitude": -33.95731,
       "longitude": 22.4558049
-    }
-  ],
-  "Oncologist": [
-    {
-      "name": "Dr Ahmed Hashim Tagelsir Mohamed",
-      "title": "Oncologist",
-      "location": "Paradyskloof, Stellenbosch, Western Cape",
-      "description": null,
-      "latitude": -33.9572493,
-      "longitude": 18.8576226
-    },
-    {
-      "name": "Dr Thulo Molefi",
-      "title": "Oncologist",
-      "location": "Pretoria, Pretoria, Gauteng",
-      "description": null,
-      "latitude": -25.7485088,
-      "longitude": 28.1966302
     }
   ],
   "Obstetrician & Gynaecologist": [
@@ -6260,6 +6234,24 @@
       "description": null,
       "latitude": -26.4919824,
       "longitude": 29.2328891
+    }
+  ],
+  "Oncologist": [
+    {
+      "name": "Dr Ahmed Hashim Tagelsir Mohamed",
+      "title": "Oncologist",
+      "location": "Paradyskloof, Stellenbosch, Western Cape",
+      "description": null,
+      "latitude": -33.9572493,
+      "longitude": 18.8576226
+    },
+    {
+      "name": "Dr Thulo Molefi",
+      "title": "Oncologist",
+      "location": "Pretoria, Pretoria, Gauteng",
+      "description": null,
+      "latitude": -25.7485088,
+      "longitude": 28.1966302
     }
   ],
   "Obstetrician & Gynaecologist (Reproductive Med)": [
@@ -6848,6 +6840,64 @@
       "longitude": 18.4433224
     }
   ],
+  "Paediatrician (Community Paediatrician)": [
+    {
+      "name": "Dr Zohra Bibi Banoo",
+      "title": "Paediatrician (Community Paediatrician)",
+      "location": "Congella, Durban, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.8815405,
+      "longitude": 30.9903256
+    },
+    {
+      "name": "Dr Ute Dagmar Feucht",
+      "title": "Paediatrician (Community Paediatrician)",
+      "location": "Pretoria, Pretoria, Gauteng",
+      "description": null,
+      "latitude": -25.747618,
+      "longitude": 28.193084
+    },
+    {
+      "name": "Dr David Martin (Dave) Le Roux",
+      "title": "Paediatrician (Community Paediatrician)",
+      "location": "Green Point, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9046889,
+      "longitude": 18.4169524
+    },
+    {
+      "name": "Dr Mphelekedzeni Caroline (Mphele) Mangwane-Mulaudzi",
+      "title": "Paediatrician (Community Paediatrician)",
+      "location": "Parktown, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1761283,
+      "longitude": 28.0439262
+    },
+    {
+      "name": "Dr John Recardie (Jaco) Murray",
+      "title": "Paediatrician (Community Paediatrician)",
+      "location": "Paarl, Paarl, Western Cape",
+      "description": null,
+      "latitude": -33.7259882,
+      "longitude": 18.9712323
+    },
+    {
+      "name": "Dr Romola Suriakumarie Naidoo",
+      "title": "Paediatrician (Community Paediatrician)",
+      "location": "Queensburgh, Queensburgh, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.877415,
+      "longitude": 30.898777
+    },
+    {
+      "name": "Dr Anthony Thomas Read Westwood",
+      "title": "Paediatrician (Community Paediatrician)",
+      "location": "Observatory, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9417,
+      "longitude": 18.4651
+    }
+  ],
   "Occupational Medicine Practitioner (OMP)": [
     {
       "name": "Dr Sisikelelwe Sylvia Gwanya-Mdletye",
@@ -7101,324 +7151,6 @@
       "description": null,
       "latitude": -33.8869748,
       "longitude": 18.6085169
-    }
-  ],
-  "Paediatrician (Community Paediatrician)": [
-    {
-      "name": "Dr Zohra Bibi Banoo",
-      "title": "Paediatrician (Community Paediatrician)",
-      "location": "Congella, Durban, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.8815405,
-      "longitude": 30.9903256
-    },
-    {
-      "name": "Dr Ute Dagmar Feucht",
-      "title": "Paediatrician (Community Paediatrician)",
-      "location": "Pretoria, Pretoria, Gauteng",
-      "description": null,
-      "latitude": -25.747618,
-      "longitude": 28.193084
-    },
-    {
-      "name": "Dr David Martin (Dave) Le Roux",
-      "title": "Paediatrician (Community Paediatrician)",
-      "location": "Green Point, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9058821,
-      "longitude": 18.4160511
-    },
-    {
-      "name": "Dr Mphelekedzeni Caroline (Mphele) Mangwane-Mulaudzi",
-      "title": "Paediatrician (Community Paediatrician)",
-      "location": "Parktown, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1761283,
-      "longitude": 28.0439262
-    },
-    {
-      "name": "Dr John Recardie (Jaco) Murray",
-      "title": "Paediatrician (Community Paediatrician)",
-      "location": "Paarl, Paarl, Western Cape",
-      "description": null,
-      "latitude": -33.7259882,
-      "longitude": 18.9712323
-    },
-    {
-      "name": "Dr Romola Suriakumarie Naidoo",
-      "title": "Paediatrician (Community Paediatrician)",
-      "location": "Queensburgh, Queensburgh, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.877415,
-      "longitude": 30.898777
-    },
-    {
-      "name": "Dr Anthony Thomas Read Westwood",
-      "title": "Paediatrician (Community Paediatrician)",
-      "location": "Observatory, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9417,
-      "longitude": 18.4651
-    }
-  ],
-  "Paediatrician (Endocrinologist)": [
-    {
-      "name": "Dr Ajay Chhagan Chiba",
-      "title": "Paediatrician (Endocrinologist)",
-      "location": "Parktown, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1798101,
-      "longitude": 28.0332364
-    },
-    {
-      "name": "Dr Yasmeen Nisa Ganie",
-      "title": "Paediatrician (Endocrinologist)",
-      "location": "Mayville, Durban, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.8446272,
-      "longitude": 30.978618
-    },
-    {
-      "name": "Dr Michele Grantham",
-      "title": "Paediatrician (Endocrinologist)",
-      "location": "Parow, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9105605,
-      "longitude": 18.6129913
-    },
-    {
-      "name": "Dr Maria Karsas",
-      "title": "Paediatrician (Endocrinologist)",
-      "location": "Pretoria, Pretoria, Gauteng",
-      "description": null,
-      "latitude": -25.7302244,
-      "longitude": 28.2037916
-    },
-    {
-      "name": "Dr Lindsey Nicola Levin",
-      "title": "Paediatrician (Endocrinologist)",
-      "location": "Plumstead, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -34.0272627,
-      "longitude": 18.4617222
-    },
-    {
-      "name": "Dr Kerry Joan Marran",
-      "title": "Paediatrician (Endocrinologist)",
-      "location": "Parktown, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1797423,
-      "longitude": 28.0332453
-    },
-    {
-      "name": "Dr Fatima Yakoub Moosa",
-      "title": "Paediatrician (Endocrinologist)",
-      "location": "Diepkloof, Diepkloof, Gauteng",
-      "description": null,
-      "latitude": -26.2613823,
-      "longitude": 27.9426343
-    },
-    {
-      "name": "Dr Melezwa Ndamase-Nyokana",
-      "title": "Paediatrician (Endocrinologist)",
-      "location": "Greenacres, Gqeberha, Eastern Cape",
-      "description": null,
-      "latitude": -33.9522387,
-      "longitude": 25.5803638
-    },
-    {
-      "name": "Dr Kiran Bhagoo Parbhoo",
-      "title": "Paediatrician (Endocrinologist)",
-      "location": "Diepkloof, Diepkloof, Gauteng",
-      "description": null,
-      "latitude": -26.2612145,
-      "longitude": 27.9426511
-    },
-    {
-      "name": "Dr Kubendran Pillay",
-      "title": "Paediatrician (Endocrinologist)",
-      "location": "Dawncliffe, Westville, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.8512398,
-      "longitude": 30.9326612
-    },
-    {
-      "name": "Dr Amith Ramcharan",
-      "title": "Paediatrician (Endocrinologist)",
-      "location": "Rondebosch, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.954695,
-      "longitude": 18.4874563
-    },
-    {
-      "name": "Dr Ariane Martine Jeanne Spitaels",
-      "title": "Paediatrician (Endocrinologist)",
-      "location": "Rondebosch, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9539008,
-      "longitude": 18.488615
-    },
-    {
-      "name": "Dr Shafeeka Ismail Tayob",
-      "title": "Paediatrician (Endocrinologist)",
-      "location": "Newlands East, Newlands East, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.7774276,
-      "longitude": 30.9957804
-    },
-    {
-      "name": "Dr Kebashni Thandrayen",
-      "title": "Paediatrician (Endocrinologist)",
-      "location": "Diepkloof, Diepkloof, Gauteng",
-      "description": null,
-      "latitude": -26.2613823,
-      "longitude": 27.9426343
-    },
-    {
-      "name": "Dr Danelle Margo Van Der Merwe",
-      "title": "Paediatrician (Endocrinologist)",
-      "location": "Panorama, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.8769565,
-      "longitude": 18.5768316
-    },
-    {
-      "name": "Dr Jacobus Cornelius Van Dyk",
-      "title": "Paediatrician (Endocrinologist)",
-      "location": "Groenkloof, Pretoria, Gauteng",
-      "description": null,
-      "latitude": -25.7713269,
-      "longitude": 28.2161662
-    },
-    {
-      "name": "Dr Ekkehard Werner Arthur Zollner",
-      "title": "Paediatrician (Endocrinologist)",
-      "location": "Parow, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9067916,
-      "longitude": 18.5808115
-    }
-  ],
-  "Paediatrician (Developmental Paediatrician)": [
-    {
-      "name": "Dr Amina Suleman Bham",
-      "title": "Paediatrician (Developmental Paediatrician)",
-      "location": "Greenside, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1592021,
-      "longitude": 28.0125336
-    },
-    {
-      "name": "Dr David Johannes Griessel",
-      "title": "Paediatrician (Developmental Paediatrician)",
-      "location": "Groenvlei, Bloemfontein, Free State",
-      "description": null,
-      "latitude": -29.0647702,
-      "longitude": 26.1686685
-    },
-    {
-      "name": "Dr Christelle Nel",
-      "title": "Paediatrician (Developmental Paediatrician)",
-      "location": "Johannesburg, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.205647,
-      "longitude": 28.0337185
-    },
-    {
-      "name": "Dr Malebo Daizy Nonyane",
-      "title": "Paediatrician (Developmental Paediatrician)",
-      "location": "Pretoria, Pretoria, Gauteng",
-      "description": null,
-      "latitude": -25.7295043,
-      "longitude": 28.2024424
-    },
-    {
-      "name": "Dr Elizabeth Mary Pauly (Ho)",
-      "title": "Paediatrician (Developmental Paediatrician)",
-      "location": "Coronationville, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1878483,
-      "longitude": 27.9733913
-    },
-    {
-      "name": "Dr Veruschka Ramanjam",
-      "title": "Paediatrician (Developmental Paediatrician)",
-      "location": "Wynberg, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -34.00421,
-      "longitude": 18.45349
-    },
-    {
-      "name": "Dr Nerica Ramsundhar",
-      "title": "Paediatrician (Developmental Paediatrician)",
-      "location": "Bulwer, Berea, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.8558351,
-      "longitude": 30.9912792
-    },
-    {
-      "name": "Dr Andrew William Redfern",
-      "title": "Paediatrician (Developmental Paediatrician)",
-      "location": "Tygerberg, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9079339,
-      "longitude": 18.6124987
-    },
-    {
-      "name": "Dr Mark Thomas Richards",
-      "title": "Paediatrician (Developmental Paediatrician)",
-      "location": "Rondebosch, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9539008,
-      "longitude": 18.488615
-    },
-    {
-      "name": "Dr Hilda Henriette Saunders",
-      "title": "Paediatrician (Developmental Paediatrician)",
-      "location": "Paarl, Paarl, Western Cape",
-      "description": null,
-      "latitude": -33.7244461,
-      "longitude": 18.963711
-    },
-    {
-      "name": "Dr Shereez Simmons",
-      "title": "Paediatrician (Developmental Paediatrician)",
-      "location": "Bloemfontein, Bloemfontein, Free State",
-      "description": null,
-      "latitude": -29.1085211,
-      "longitude": 26.2978957
-    },
-    {
-      "name": "Dr Angeline Thomas",
-      "title": "Paediatrician (Developmental Paediatrician)",
-      "location": "Tygerberg, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9079339,
-      "longitude": 18.6124987
-    },
-    {
-      "name": "Dr Heather Clare Thomson",
-      "title": "Paediatrician (Developmental Paediatrician)",
-      "location": "Parktown, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1749,
-      "longitude": 28.0454
-    },
-    {
-      "name": "Prof Andre Venter",
-      "title": "Paediatrician (Developmental Paediatrician)",
-      "location": "Waverley, Bloemfontein, Free State",
-      "description": null,
-      "latitude": -29.0928335,
-      "longitude": 26.2405463
-    },
-    {
-      "name": "Dr Leigh-Ann Wood-Pottle",
-      "title": "Paediatrician (Developmental Paediatrician)",
-      "location": "Durbanville, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.8275335,
-      "longitude": 18.6526846
     }
   ],
   "Paediatrician (Cardiologist)": [
@@ -7725,6 +7457,128 @@
       "description": null,
       "latitude": -29.8512702,
       "longitude": 30.9326599
+    }
+  ],
+  "Paediatrician (Developmental Paediatrician)": [
+    {
+      "name": "Dr Amina Suleman Bham",
+      "title": "Paediatrician (Developmental Paediatrician)",
+      "location": "Greenside, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1592021,
+      "longitude": 28.0125336
+    },
+    {
+      "name": "Dr David Johannes Griessel",
+      "title": "Paediatrician (Developmental Paediatrician)",
+      "location": "Groenvlei, Bloemfontein, Free State",
+      "description": null,
+      "latitude": -29.0647702,
+      "longitude": 26.1686685
+    },
+    {
+      "name": "Dr Christelle Nel",
+      "title": "Paediatrician (Developmental Paediatrician)",
+      "location": "Johannesburg, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.205647,
+      "longitude": 28.0337185
+    },
+    {
+      "name": "Dr Malebo Daizy Nonyane",
+      "title": "Paediatrician (Developmental Paediatrician)",
+      "location": "Pretoria, Pretoria, Gauteng",
+      "description": null,
+      "latitude": -25.7295043,
+      "longitude": 28.2024424
+    },
+    {
+      "name": "Dr Elizabeth Mary Pauly (Ho)",
+      "title": "Paediatrician (Developmental Paediatrician)",
+      "location": "Coronationville, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1878483,
+      "longitude": 27.9733913
+    },
+    {
+      "name": "Dr Veruschka Ramanjam",
+      "title": "Paediatrician (Developmental Paediatrician)",
+      "location": "Wynberg, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -34.00421,
+      "longitude": 18.45349
+    },
+    {
+      "name": "Dr Nerica Ramsundhar",
+      "title": "Paediatrician (Developmental Paediatrician)",
+      "location": "Bulwer, Berea, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.8558351,
+      "longitude": 30.9912792
+    },
+    {
+      "name": "Dr Andrew William Redfern",
+      "title": "Paediatrician (Developmental Paediatrician)",
+      "location": "Tygerberg, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9079339,
+      "longitude": 18.6124987
+    },
+    {
+      "name": "Dr Mark Thomas Richards",
+      "title": "Paediatrician (Developmental Paediatrician)",
+      "location": "Rondebosch, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9539008,
+      "longitude": 18.488615
+    },
+    {
+      "name": "Dr Hilda Henriette Saunders",
+      "title": "Paediatrician (Developmental Paediatrician)",
+      "location": "Paarl, Paarl, Western Cape",
+      "description": null,
+      "latitude": -33.7251589,
+      "longitude": 18.9630649
+    },
+    {
+      "name": "Dr Shereez Simmons",
+      "title": "Paediatrician (Developmental Paediatrician)",
+      "location": "Bloemfontein, Bloemfontein, Free State",
+      "description": null,
+      "latitude": -29.1085211,
+      "longitude": 26.2978957
+    },
+    {
+      "name": "Dr Angeline Thomas",
+      "title": "Paediatrician (Developmental Paediatrician)",
+      "location": "Tygerberg, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9079339,
+      "longitude": 18.6124987
+    },
+    {
+      "name": "Dr Heather Clare Thomson",
+      "title": "Paediatrician (Developmental Paediatrician)",
+      "location": "Parktown, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1749,
+      "longitude": 28.0454
+    },
+    {
+      "name": "Prof Andre Venter",
+      "title": "Paediatrician (Developmental Paediatrician)",
+      "location": "Waverley, Bloemfontein, Free State",
+      "description": null,
+      "latitude": -29.0928335,
+      "longitude": 26.2405463
+    },
+    {
+      "name": "Dr Leigh-Ann Wood-Pottle",
+      "title": "Paediatrician (Developmental Paediatrician)",
+      "location": "Durbanville, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.8275335,
+      "longitude": 18.6526846
     }
   ],
   "Oncologist - Radiation": [
@@ -8098,6 +7952,144 @@
       "description": null,
       "latitude": -25.4704852,
       "longitude": 30.9712302
+    }
+  ],
+  "Paediatrician (Endocrinologist)": [
+    {
+      "name": "Dr Ajay Chhagan Chiba",
+      "title": "Paediatrician (Endocrinologist)",
+      "location": "Parktown, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1798101,
+      "longitude": 28.0332364
+    },
+    {
+      "name": "Dr Yasmeen Nisa Ganie",
+      "title": "Paediatrician (Endocrinologist)",
+      "location": "Mayville, Durban, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.8446272,
+      "longitude": 30.978618
+    },
+    {
+      "name": "Dr Michele Grantham",
+      "title": "Paediatrician (Endocrinologist)",
+      "location": "Parow, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9105605,
+      "longitude": 18.6129913
+    },
+    {
+      "name": "Dr Maria Karsas",
+      "title": "Paediatrician (Endocrinologist)",
+      "location": "Pretoria, Pretoria, Gauteng",
+      "description": null,
+      "latitude": -25.7302244,
+      "longitude": 28.2037916
+    },
+    {
+      "name": "Dr Lindsey Nicola Levin",
+      "title": "Paediatrician (Endocrinologist)",
+      "location": "Plumstead, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -34.0272627,
+      "longitude": 18.4617222
+    },
+    {
+      "name": "Dr Kerry Joan Marran",
+      "title": "Paediatrician (Endocrinologist)",
+      "location": "Parktown, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1797423,
+      "longitude": 28.0332453
+    },
+    {
+      "name": "Dr Fatima Yakoub Moosa",
+      "title": "Paediatrician (Endocrinologist)",
+      "location": "Diepkloof, Diepkloof, Gauteng",
+      "description": null,
+      "latitude": -26.2613823,
+      "longitude": 27.9426343
+    },
+    {
+      "name": "Dr Melezwa Ndamase-Nyokana",
+      "title": "Paediatrician (Endocrinologist)",
+      "location": "Greenacres, Gqeberha, Eastern Cape",
+      "description": null,
+      "latitude": -33.9522387,
+      "longitude": 25.5803638
+    },
+    {
+      "name": "Dr Kiran Bhagoo Parbhoo",
+      "title": "Paediatrician (Endocrinologist)",
+      "location": "Diepkloof, Diepkloof, Gauteng",
+      "description": null,
+      "latitude": -26.2612145,
+      "longitude": 27.9426511
+    },
+    {
+      "name": "Dr Kubendran Pillay",
+      "title": "Paediatrician (Endocrinologist)",
+      "location": "Dawncliffe, Westville, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.8512398,
+      "longitude": 30.9326612
+    },
+    {
+      "name": "Dr Amith Ramcharan",
+      "title": "Paediatrician (Endocrinologist)",
+      "location": "Rondebosch, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.954695,
+      "longitude": 18.4874563
+    },
+    {
+      "name": "Dr Ariane Martine Jeanne Spitaels",
+      "title": "Paediatrician (Endocrinologist)",
+      "location": "Rondebosch, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9539008,
+      "longitude": 18.488615
+    },
+    {
+      "name": "Dr Shafeeka Ismail Tayob",
+      "title": "Paediatrician (Endocrinologist)",
+      "location": "Newlands East, Newlands East, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.7774276,
+      "longitude": 30.9957804
+    },
+    {
+      "name": "Dr Kebashni Thandrayen",
+      "title": "Paediatrician (Endocrinologist)",
+      "location": "Diepkloof, Diepkloof, Gauteng",
+      "description": null,
+      "latitude": -26.2613823,
+      "longitude": 27.9426343
+    },
+    {
+      "name": "Dr Danelle Margo Van Der Merwe",
+      "title": "Paediatrician (Endocrinologist)",
+      "location": "Panorama, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.8769565,
+      "longitude": 18.5768316
+    },
+    {
+      "name": "Dr Jacobus Cornelius Van Dyk",
+      "title": "Paediatrician (Endocrinologist)",
+      "location": "Groenkloof, Pretoria, Gauteng",
+      "description": null,
+      "latitude": -25.7713269,
+      "longitude": 28.2161662
+    },
+    {
+      "name": "Dr Ekkehard Werner Arthur Zollner",
+      "title": "Paediatrician (Endocrinologist)",
+      "location": "Parow, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9067916,
+      "longitude": 18.5808115
     }
   ],
   "Ophthalmologist": [
@@ -8684,15 +8676,6 @@
       "longitude": 30.9912806
     },
     {
-      "name": "Dr William Donnavan Foxcroft",
-      "title": "Orthopaedic Surgeon",
-      "location": "Groenkloof, Pretoria, Gauteng",
-      "description": "Arthroscopy, Cartilage Injuries, Cruciate Ligaments, Hip Surgery, Knee Surgery, Ligament ...",
-      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=388461",
-      "latitude": -25.7712847,
-      "longitude": 28.2161659
-    },
-    {
       "name": "Dr Bradley Rael Gelbart",
       "title": "Orthopaedic Surgeon",
       "location": "Linksfield West, Johannesburg, Gauteng",
@@ -8754,15 +8737,6 @@
       "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=128939",
       "latitude": -33.9430274,
       "longitude": 18.4892278
-    },
-    {
-      "name": "Dr Curran Ashley Hitge",
-      "title": "Orthopaedic Surgeon",
-      "location": "Sunninghill, Sandton, Gauteng",
-      "description": "Deformity Correction Surgery, Limb Reconstruction, Orthopaedic Trauma Surgery, Paediatric ...",
-      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=388127",
-      "latitude": -26.03767,
-      "longitude": 28.069662
     },
     {
       "name": "Dr Ebrahim Hoosen",
@@ -8862,6 +8836,24 @@
       "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=156513",
       "latitude": -34.0906384,
       "longitude": 18.8587832
+    },
+    {
+      "name": "Dr Mark Frans Maritz",
+      "title": "Orthopaedic Surgeon",
+      "location": "Paardevlei, Cape Town, Western Cape",
+      "description": "Foot & Ankle Surgery, Knee Surgery",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=93700",
+      "latitude": -34.0946999,
+      "longitude": 18.816395
+    },
+    {
+      "name": "Dr Chuene Solly Mathiba",
+      "title": "Orthopaedic Surgeon",
+      "location": "Mulbarton, Johannesburg, Gauteng",
+      "description": "Arthroplasty, Arthroscopy, Elbow Surgery, Hand Surgery, Hip Surgery, Knee Surgery, Neuroanatomy, ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=247804",
+      "latitude": -26.2982044,
+      "longitude": 28.0535042
     },
     {
       "name": "Dr Sibulele Xaso",
@@ -8976,6 +8968,15 @@
       "longitude": 30.864442
     },
     {
+      "name": "Dr Omar Farouk Jooma",
+      "title": "Paediatrician",
+      "location": "Pietermaritzburg, Pietermaritzburg, KwaZulu-Natal",
+      "description": "Allergies, Neonatology",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=27533",
+      "latitude": -29.6084347,
+      "longitude": 30.3890163
+    },
+    {
       "name": "Dr Tumelo Betty Leeuw",
       "title": "Paediatrician",
       "location": "Mahikeng, Mmabatho, North West",
@@ -9019,15 +9020,6 @@
       "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=184954",
       "latitude": -26.0119802,
       "longitude": 27.9941076
-    },
-    {
-      "name": "Dr Mbilaelo Tshamiswe",
-      "title": "Paediatrician",
-      "location": "Makhado, Louis Trichardt, Limpopo",
-      "description": "Child Health, Neurodevelopment",
-      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=434939",
-      "latitude": -23.04069,
-      "longitude": 29.89738
     },
     {
       "name": "Dr Leana Van Dyk",
@@ -9572,6 +9564,168 @@
       "longitude": 25.561417
     }
   ],
+  "Paediatrician (Gastroenterologist)": [
+    {
+      "name": "Dr Marisa Renata Beretta",
+      "title": "Paediatrician (Gastroenterologist)",
+      "location": "Parktown, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1803363,
+      "longitude": 28.0340934
+    },
+    {
+      "name": "Dr Sarah Berkenfeld",
+      "title": "Paediatrician (Gastroenterologist)",
+      "location": "Parktown, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1799317,
+      "longitude": 28.0330959
+    },
+    {
+      "name": "Dr Suveena Bisetty",
+      "title": "Paediatrician (Gastroenterologist)",
+      "location": "Bulwer, Berea, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.8558269,
+      "longitude": 30.9912484
+    },
+    {
+      "name": "Dr Melissa Louise Cooke",
+      "title": "Paediatrician (Gastroenterologist)",
+      "location": "Green Point, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9046288,
+      "longitude": 18.4169202
+    },
+    {
+      "name": "Dr Tim De Maayer",
+      "title": "Paediatrician (Gastroenterologist)",
+      "location": "Coronationville, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1884378,
+      "longitude": 27.9728582
+    },
+    {
+      "name": "Dr Emhemed Elhamroni Elhashimi Elkhatiali",
+      "title": "Paediatrician (Gastroenterologist)",
+      "location": "Parow, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9106356,
+      "longitude": 18.6129472
+    },
+    {
+      "name": "Dr Zeenat Gaibee",
+      "title": "Paediatrician (Gastroenterologist)",
+      "location": "Rondebosch, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9635803,
+      "longitude": 18.4762773
+    },
+    {
+      "name": "Dr Elizabeth Anne (Liz) Goddard",
+      "title": "Paediatrician (Gastroenterologist)",
+      "location": "Rondebosch, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9548508,
+      "longitude": 18.4873812
+    },
+    {
+      "name": "Dr Lesley Jill Hendricks",
+      "title": "Paediatrician (Gastroenterologist)",
+      "location": "Midstream Estate, Olifantsfontein, Gauteng",
+      "description": null,
+      "latitude": -25.9260396,
+      "longitude": 28.1820751
+    },
+    {
+      "name": "Dr Celeste Kock",
+      "title": "Paediatrician (Gastroenterologist)",
+      "location": "Midstream Estate, Olifantsfontein, Gauteng",
+      "description": null,
+      "latitude": -25.9254823,
+      "longitude": 28.1820116
+    },
+    {
+      "name": "Prof Sanjay Govind Lala",
+      "title": "Paediatrician (Gastroenterologist)",
+      "location": "Diepkloof, Diepkloof, Gauteng",
+      "description": null,
+      "latitude": -26.2611486,
+      "longitude": 27.9425362
+    },
+    {
+      "name": "Dr Eiman Mansor Mohamed Losta",
+      "title": "Paediatrician (Gastroenterologist)",
+      "location": "Mahikeng, Mmabatho, North West",
+      "description": null,
+      "latitude": -25.8846653,
+      "longitude": 25.6569224
+    },
+    {
+      "name": "Dr Rachel Mlotha Mitole",
+      "title": "Paediatrician (Gastroenterologist)",
+      "location": "Parktown, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1759309,
+      "longitude": 28.0439047
+    },
+    {
+      "name": "Dr Vusani Lilian Mudau",
+      "title": "Paediatrician (Gastroenterologist)",
+      "location": "Parktown, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1797838,
+      "longitude": 28.0332445
+    },
+    {
+      "name": "Dr Lesego Ndhlovu",
+      "title": "Paediatrician (Gastroenterologist)",
+      "location": "Mowbray, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9461128,
+      "longitude": 18.4919463
+    },
+    {
+      "name": "Dr Grace Okudo",
+      "title": "Paediatrician (Gastroenterologist)",
+      "location": "Diepkloof, Diepkloof, Gauteng",
+      "description": null,
+      "latitude": -26.2613823,
+      "longitude": 27.9426343
+    },
+    {
+      "name": "Dr Silvia Strobele",
+      "title": "Paediatrician (Gastroenterologist)",
+      "location": "Panorama, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.8759579,
+      "longitude": 18.5775753
+    },
+    {
+      "name": "Dr Albertha Jacomina Terblanche",
+      "title": "Paediatrician (Gastroenterologist)",
+      "location": "Muckleneuk, Pretoria, Gauteng",
+      "description": null,
+      "latitude": -25.7622218,
+      "longitude": 28.2054958
+    },
+    {
+      "name": "Dr Priya Walabh",
+      "title": "Paediatrician (Gastroenterologist)",
+      "location": "Sunninghill, Sandton, Gauteng",
+      "description": null,
+      "latitude": -26.0376851,
+      "longitude": 28.069659
+    },
+    {
+      "name": "Dr Michele Zuckerman",
+      "title": "Paediatrician (Gastroenterologist)",
+      "location": "Braamfontein, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1899096,
+      "longitude": 28.0319771
+    }
+  ],
   "Paediatrician (Infectious Diseases)": [
     {
       "name": "Dr Moherndran Archary",
@@ -9732,168 +9886,6 @@
       "description": null,
       "latitude": -33.910669,
       "longitude": 18.612738
-    }
-  ],
-  "Paediatrician (Gastroenterologist)": [
-    {
-      "name": "Dr Marisa Renata Beretta",
-      "title": "Paediatrician (Gastroenterologist)",
-      "location": "Parktown, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1803363,
-      "longitude": 28.0340934
-    },
-    {
-      "name": "Dr Sarah Berkenfeld",
-      "title": "Paediatrician (Gastroenterologist)",
-      "location": "Parktown, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1799317,
-      "longitude": 28.0330959
-    },
-    {
-      "name": "Dr Suveena Bisetty",
-      "title": "Paediatrician (Gastroenterologist)",
-      "location": "Bulwer, Berea, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.8558269,
-      "longitude": 30.9912484
-    },
-    {
-      "name": "Dr Melissa Louise Cooke",
-      "title": "Paediatrician (Gastroenterologist)",
-      "location": "Green Point, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.905911,
-      "longitude": 18.4160619
-    },
-    {
-      "name": "Dr Tim De Maayer",
-      "title": "Paediatrician (Gastroenterologist)",
-      "location": "Coronationville, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1884378,
-      "longitude": 27.9728582
-    },
-    {
-      "name": "Dr Emhemed Elhamroni Elhashimi Elkhatiali",
-      "title": "Paediatrician (Gastroenterologist)",
-      "location": "Parow, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9106356,
-      "longitude": 18.6129472
-    },
-    {
-      "name": "Dr Zeenat Gaibee",
-      "title": "Paediatrician (Gastroenterologist)",
-      "location": "Rondebosch, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9635803,
-      "longitude": 18.4762773
-    },
-    {
-      "name": "Dr Elizabeth Anne (Liz) Goddard",
-      "title": "Paediatrician (Gastroenterologist)",
-      "location": "Rondebosch, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9548508,
-      "longitude": 18.4873812
-    },
-    {
-      "name": "Dr Lesley Jill Hendricks",
-      "title": "Paediatrician (Gastroenterologist)",
-      "location": "Midstream Estate, Olifantsfontein, Gauteng",
-      "description": null,
-      "latitude": -25.9260396,
-      "longitude": 28.1820751
-    },
-    {
-      "name": "Dr Celeste Kock",
-      "title": "Paediatrician (Gastroenterologist)",
-      "location": "Midstream Estate, Olifantsfontein, Gauteng",
-      "description": null,
-      "latitude": -25.9254823,
-      "longitude": 28.1820116
-    },
-    {
-      "name": "Prof Sanjay Govind Lala",
-      "title": "Paediatrician (Gastroenterologist)",
-      "location": "Diepkloof, Diepkloof, Gauteng",
-      "description": null,
-      "latitude": -26.2611486,
-      "longitude": 27.9425362
-    },
-    {
-      "name": "Dr Eiman Mansor Mohamed Losta",
-      "title": "Paediatrician (Gastroenterologist)",
-      "location": "Mahikeng, Mmabatho, North West",
-      "description": null,
-      "latitude": -25.8846653,
-      "longitude": 25.6569224
-    },
-    {
-      "name": "Dr Rachel Mlotha Mitole",
-      "title": "Paediatrician (Gastroenterologist)",
-      "location": "Parktown, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1759309,
-      "longitude": 28.0439047
-    },
-    {
-      "name": "Dr Vusani Lilian Mudau",
-      "title": "Paediatrician (Gastroenterologist)",
-      "location": "Parktown, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1797838,
-      "longitude": 28.0332445
-    },
-    {
-      "name": "Dr Lesego Ndhlovu",
-      "title": "Paediatrician (Gastroenterologist)",
-      "location": "Mowbray, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9461128,
-      "longitude": 18.4919463
-    },
-    {
-      "name": "Dr Grace Okudo",
-      "title": "Paediatrician (Gastroenterologist)",
-      "location": "Diepkloof, Diepkloof, Gauteng",
-      "description": null,
-      "latitude": -26.2613823,
-      "longitude": 27.9426343
-    },
-    {
-      "name": "Dr Silvia Strobele",
-      "title": "Paediatrician (Gastroenterologist)",
-      "location": "Panorama, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.8759579,
-      "longitude": 18.5775753
-    },
-    {
-      "name": "Dr Albertha Jacomina Terblanche",
-      "title": "Paediatrician (Gastroenterologist)",
-      "location": "Muckleneuk, Pretoria, Gauteng",
-      "description": null,
-      "latitude": -25.7622218,
-      "longitude": 28.2054958
-    },
-    {
-      "name": "Dr Priya Walabh",
-      "title": "Paediatrician (Gastroenterologist)",
-      "location": "Sunninghill, Sandton, Gauteng",
-      "description": null,
-      "latitude": -26.0376851,
-      "longitude": 28.069659
-    },
-    {
-      "name": "Dr Michele Zuckerman",
-      "title": "Paediatrician (Gastroenterologist)",
-      "location": "Braamfontein, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1899096,
-      "longitude": 28.0319771
     }
   ],
   "Paediatrician (Rheumatologist)": [
@@ -10440,336 +10432,6 @@
       "longitude": 25.6000468
     }
   ],
-  "Paediatrician (Neonatologist)": [
-    {
-      "name": "Dr Adrie Bekker",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Tygerberg, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9079339,
-      "longitude": 18.6124987
-    },
-    {
-      "name": "Dr Roopesh Nagin Bhoola",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Edendale, Pietermaritzburg, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.6478894,
-      "longitude": 30.3318478
-    },
-    {
-      "name": "Dr Gregory John Boden",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Greenacres, Gqeberha, Eastern Cape",
-      "description": null,
-      "latitude": -33.9518181,
-      "longitude": 25.5796492
-    },
-    {
-      "name": "Dr Nicolette Brown",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Salt Rock, Dolphin Coast, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.4831376,
-      "longitude": 31.2270183
-    },
-    {
-      "name": "Dr Melantha Coetzee",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Pretoria, Pretoria, Gauteng",
-      "description": null,
-      "latitude": -25.7302244,
-      "longitude": 28.2037916
-    },
-    {
-      "name": "Dr Lize Coyles (Boshoff)",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Pinelands, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9430904,
-      "longitude": 18.4893455
-    },
-    {
-      "name": "Dr Adriaan David Daniels",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Green Point, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9058755,
-      "longitude": 18.4160464
-    },
-    {
-      "name": "Dr Pragnya Kapilray Desai",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Gandhinagar, oThongathi, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.573057,
-      "longitude": 31.1181105
-    },
-    {
-      "name": "Dr Hitesh Amrat Diar",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Parktown, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1816835,
-      "longitude": 28.0464873
-    },
-    {
-      "name": "Dr Ricky Dippenaar",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Sunningdale, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.8042106,
-      "longitude": 18.483375
-    },
-    {
-      "name": "Dr Jonathan Grey Egner",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Bulwer, Berea, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.8559707,
-      "longitude": 30.9912634
-    },
-    {
-      "name": "Dr Ilse Els-Goussard",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "George, George, Western Cape",
-      "description": null,
-      "latitude": -33.9777839,
-      "longitude": 22.495311
-    },
-    {
-      "name": "Dr Joy Lorna Fredericks",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Coronationville, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1884378,
-      "longitude": 27.9728582
-    },
-    {
-      "name": "Dr Azra Ghoor",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Coronationville, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1878404,
-      "longitude": 27.9734093
-    },
-    {
-      "name": "Dr Pearl Calethea Nomsa Gwamanda",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Arcadia, Pretoria, Gauteng",
-      "description": null,
-      "latitude": -25.7484202,
-      "longitude": 28.1986111
-    },
-    {
-      "name": "Dr Sandi Lee Holgate",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Tygerberg, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9079339,
-      "longitude": 18.6124987
-    },
-    {
-      "name": "Dr Alan Richard Horn",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Observatory, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9407712,
-      "longitude": 18.4618043
-    },
-    {
-      "name": "Dr Thomas Ryan Jones",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Panorama, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.8755076,
-      "longitude": 18.5770596
-    },
-    {
-      "name": "Dr Zaheera Kajee",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Bellville, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.8998381,
-      "longitude": 18.6129724
-    },
-    {
-      "name": "Dr Gugulabatembunamahlubi Tenjiwe Jabulile Kali",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Parow, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9106305,
-      "longitude": 18.6129475
-    },
-    {
-      "name": "Dr Qaunitah Keraan",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Foreshore, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9178185,
-      "longitude": 18.4308027
-    },
-    {
-      "name": "Dr Fharnisa Khan",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Congella, Durban, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.8779205,
-      "longitude": 30.9957495
-    },
-    {
-      "name": "Dr Lizel Georgi Lloyd",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Tygerberg, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9079339,
-      "longitude": 18.6124987
-    },
-    {
-      "name": "Dr Cheryl Anne MacKay",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Pietermaritzburg, Pietermaritzburg, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.580626,
-      "longitude": 30.363007
-    },
-    {
-      "name": "Dr Nonqaba Cecilia Makiwane",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Parktown, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1793299,
-      "longitude": 28.039373
-    },
-    {
-      "name": "Dr Khakhu Tshilidzi Mathivha",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Parktown, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1792905,
-      "longitude": 28.039354
-    },
-    {
-      "name": "Prof Mothahadini Patience Blessings (Dini) Mawela",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Ga-rankuwa, Ga-Rankuwa, Gauteng",
-      "description": null,
-      "latitude": -25.6185005,
-      "longitude": 28.0112895
-    },
-    {
-      "name": "Dr Klaas Putilele Mnisi",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Diepkloof Zone 6, Diepkloof, Gauteng",
-      "description": null,
-      "latitude": -26.258195,
-      "longitude": 27.9356633
-    },
-    {
-      "name": "Dr Praven Morgan Moodley",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Durban, Durban, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.8509541,
-      "longitude": 31.0150887
-    },
-    {
-      "name": "Dr Tsele Brian Mosia",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Heidedal, Bloemfontein, Free State",
-      "description": null,
-      "latitude": -29.1411113,
-      "longitude": 26.2454467
-    },
-    {
-      "name": "Dr Jennette Fefekazi Mpisane",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Milnerton, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.865801,
-      "longitude": 18.5064697
-    },
-    {
-      "name": "Dr Faith Muwazi",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Ga-rankuwa, Ga-Rankuwa, Gauteng",
-      "description": null,
-      "latitude": -25.616984,
-      "longitude": 28.0114612
-    },
-    {
-      "name": "Dr Lerusha Naidoo",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Cato Manor, Durban, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.874197,
-      "longitude": 30.9562266
-    },
-    {
-      "name": "Dr Niree Naidoo",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Umlazi V, Umlazi, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.9551319,
-      "longitude": 30.9337659
-    },
-    {
-      "name": "Dr Loshnee Meryl Nair",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Coronationville, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1884378,
-      "longitude": 27.9728582
-    },
-    {
-      "name": "Dr Firdose Lambey Nakwa",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Diepkloof, Diepkloof, Gauteng",
-      "description": null,
-      "latitude": -26.2613823,
-      "longitude": 27.9426343
-    },
-    {
-      "name": "Dr Alida Nel",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Foreshore, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9178095,
-      "longitude": 18.430776
-    },
-    {
-      "name": "Dr Samantha O' Ryan",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Panorama, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.8761486,
-      "longitude": 18.5761298
-    },
-    {
-      "name": "Dr Sharika Perumal (Maharaj)",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Olivedale, Randburg, Gauteng",
-      "description": null,
-      "latitude": -26.0547732,
-      "longitude": 27.9721225
-    },
-    {
-      "name": "Dr Shakti Pillay",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Observatory, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9407712,
-      "longitude": 18.4618043
-    },
-    {
-      "name": "Dr Sithembiso Christopher Velaphi",
-      "title": "Paediatrician (Neonatologist)",
-      "location": "Diepkloof, Diepkloof, Gauteng",
-      "description": null,
-      "latitude": -26.2613823,
-      "longitude": 27.9426343
-    }
-  ],
   "Paediatrician (Paediatric Neurologist)": [
     {
       "name": "Dr Amith Keshave",
@@ -11051,6 +10713,336 @@
       "description": null,
       "latitude": -26.0377684,
       "longitude": 28.0696428
+    }
+  ],
+  "Paediatrician (Neonatologist)": [
+    {
+      "name": "Dr Adrie Bekker",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Tygerberg, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9079339,
+      "longitude": 18.6124987
+    },
+    {
+      "name": "Dr Roopesh Nagin Bhoola",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Edendale, Pietermaritzburg, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.6478894,
+      "longitude": 30.3318478
+    },
+    {
+      "name": "Dr Gregory John Boden",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Greenacres, Gqeberha, Eastern Cape",
+      "description": null,
+      "latitude": -33.9518181,
+      "longitude": 25.5796492
+    },
+    {
+      "name": "Dr Nicolette Brown",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Salt Rock, Dolphin Coast, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.4831376,
+      "longitude": 31.2270183
+    },
+    {
+      "name": "Dr Melantha Coetzee",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Pretoria, Pretoria, Gauteng",
+      "description": null,
+      "latitude": -25.7302244,
+      "longitude": 28.2037916
+    },
+    {
+      "name": "Dr Lize Coyles (Boshoff)",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Pinelands, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9430904,
+      "longitude": 18.4893455
+    },
+    {
+      "name": "Dr Adriaan David Daniels",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Green Point, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9058755,
+      "longitude": 18.4160464
+    },
+    {
+      "name": "Dr Pragnya Kapilray Desai",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Gandhinagar, oThongathi, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.573057,
+      "longitude": 31.1181105
+    },
+    {
+      "name": "Dr Hitesh Amrat Diar",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Parktown, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1816835,
+      "longitude": 28.0464873
+    },
+    {
+      "name": "Dr Ricky Dippenaar",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Sunningdale, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.8042106,
+      "longitude": 18.483375
+    },
+    {
+      "name": "Dr Jonathan Grey Egner",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Bulwer, Berea, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.8559149,
+      "longitude": 30.9912822
+    },
+    {
+      "name": "Dr Ilse Els-Goussard",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "George, George, Western Cape",
+      "description": null,
+      "latitude": -33.9777839,
+      "longitude": 22.495311
+    },
+    {
+      "name": "Dr Joy Lorna Fredericks",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Coronationville, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1884378,
+      "longitude": 27.9728582
+    },
+    {
+      "name": "Dr Azra Ghoor",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Coronationville, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1878404,
+      "longitude": 27.9734093
+    },
+    {
+      "name": "Dr Pearl Calethea Nomsa Gwamanda",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Arcadia, Pretoria, Gauteng",
+      "description": null,
+      "latitude": -25.7484202,
+      "longitude": 28.1986111
+    },
+    {
+      "name": "Dr Sandi Lee Holgate",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Tygerberg, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9079339,
+      "longitude": 18.6124987
+    },
+    {
+      "name": "Dr Alan Richard Horn",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Observatory, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9407712,
+      "longitude": 18.4618043
+    },
+    {
+      "name": "Dr Thomas Ryan Jones",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Panorama, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.8755076,
+      "longitude": 18.5770596
+    },
+    {
+      "name": "Dr Zaheera Kajee",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Bellville, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.8998381,
+      "longitude": 18.6129724
+    },
+    {
+      "name": "Dr Gugulabatembunamahlubi Tenjiwe Jabulile Kali",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Parow, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9106305,
+      "longitude": 18.6129475
+    },
+    {
+      "name": "Dr Qaunitah Keraan",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Foreshore, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9178185,
+      "longitude": 18.4308027
+    },
+    {
+      "name": "Dr Fharnisa Khan",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Congella, Durban, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.8779205,
+      "longitude": 30.9957495
+    },
+    {
+      "name": "Dr Lizel Georgi Lloyd",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Tygerberg, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9079339,
+      "longitude": 18.6124987
+    },
+    {
+      "name": "Dr Cheryl Anne MacKay",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Pietermaritzburg, Pietermaritzburg, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.580626,
+      "longitude": 30.363007
+    },
+    {
+      "name": "Dr Nonqaba Cecilia Makiwane",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Parktown, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1793299,
+      "longitude": 28.039373
+    },
+    {
+      "name": "Dr Khakhu Tshilidzi Mathivha",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Parktown, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1792905,
+      "longitude": 28.039354
+    },
+    {
+      "name": "Prof Mothahadini Patience Blessings (Dini) Mawela",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Ga-rankuwa, Ga-Rankuwa, Gauteng",
+      "description": null,
+      "latitude": -25.6185005,
+      "longitude": 28.0112895
+    },
+    {
+      "name": "Dr Klaas Putilele Mnisi",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Diepkloof Zone 6, Diepkloof, Gauteng",
+      "description": null,
+      "latitude": -26.258195,
+      "longitude": 27.9356633
+    },
+    {
+      "name": "Dr Praven Morgan Moodley",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Durban, Durban, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.8509541,
+      "longitude": 31.0150887
+    },
+    {
+      "name": "Dr Tsele Brian Mosia",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Heidedal, Bloemfontein, Free State",
+      "description": null,
+      "latitude": -29.1411113,
+      "longitude": 26.2454467
+    },
+    {
+      "name": "Dr Jennette Fefekazi Mpisane",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Milnerton, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.865801,
+      "longitude": 18.5064697
+    },
+    {
+      "name": "Dr Faith Muwazi",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Ga-rankuwa, Ga-Rankuwa, Gauteng",
+      "description": null,
+      "latitude": -25.616984,
+      "longitude": 28.0114612
+    },
+    {
+      "name": "Dr Lerusha Naidoo",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Cato Manor, Durban, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.874197,
+      "longitude": 30.9562266
+    },
+    {
+      "name": "Dr Niree Naidoo",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Umlazi V, Umlazi, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.9551319,
+      "longitude": 30.9337659
+    },
+    {
+      "name": "Dr Loshnee Meryl Nair",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Coronationville, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1884378,
+      "longitude": 27.9728582
+    },
+    {
+      "name": "Dr Firdose Lambey Nakwa",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Diepkloof, Diepkloof, Gauteng",
+      "description": null,
+      "latitude": -26.2613823,
+      "longitude": 27.9426343
+    },
+    {
+      "name": "Dr Alida Nel",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Foreshore, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9178095,
+      "longitude": 18.430776
+    },
+    {
+      "name": "Dr Samantha O' Ryan",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Panorama, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.8761486,
+      "longitude": 18.5761298
+    },
+    {
+      "name": "Dr Sharika Perumal (Maharaj)",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Olivedale, Randburg, Gauteng",
+      "description": null,
+      "latitude": -26.0547732,
+      "longitude": 27.9721225
+    },
+    {
+      "name": "Dr Shakti Pillay",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Observatory, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9407712,
+      "longitude": 18.4618043
+    },
+    {
+      "name": "Dr Sithembiso Christopher Velaphi",
+      "title": "Paediatrician (Neonatologist)",
+      "location": "Diepkloof, Diepkloof, Gauteng",
+      "description": null,
+      "latitude": -26.2613823,
+      "longitude": 27.9426343
     }
   ],
   "Pathologist - Clinical": [
@@ -13274,14 +13266,6 @@
       "longitude": 26.1951204
     },
     {
-      "name": "Dr Pieter Frederik Wessels",
-      "title": "Pathologist (Haem) (Clinical Haematologist)",
-      "location": "Groenkloof, Pretoria, Gauteng",
-      "description": null,
-      "latitude": -25.7707732,
-      "longitude": 28.2170658
-    },
-    {
       "name": "Dr Reinette Weyers",
       "title": "Pathologist (Haem) (Clinical Haematologist)",
       "location": "Westdene, Bloemfontein, Free State",
@@ -14241,6 +14225,14 @@
       "longitude": 29.2315304
     },
     {
+      "name": "Dr Ifeanyichukwu Nnabuihe Kwame Wosu",
+      "title": "Physician",
+      "location": "Pretoria, Pretoria, Gauteng",
+      "description": null,
+      "latitude": -25.7485123,
+      "longitude": 28.1966307
+    },
+    {
       "name": "Dr Pei-Chee Wung",
       "title": "Physician",
       "location": "Universitas, Bloemfontein, Free State",
@@ -14271,6 +14263,355 @@
       "description": null,
       "latitude": -25.7622408,
       "longitude": 28.2055008
+    }
+  ],
+  "Physician (Clinical Haematologist)": [
+    {
+      "name": "Dr Honest Dewa",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Floracliffe, Roodepoort, Gauteng",
+      "description": "Bleeding Disorders, Bone Marrow Transplants, Clinical Haematology, Iron Deficiency, Leukemia, ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=374121",
+      "latitude": -26.1512369,
+      "longitude": 27.9197786
+    },
+    {
+      "name": "Dr Shahroch Patrick Emile Nahrwar",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Tokai, Cape Town, Western Cape",
+      "description": "Anaemia, Blood Diseases, Bloodletting, Blood Products, Chemotherapy, Clinical Haematology, Clotting ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=70927",
+      "latitude": -34.0679923,
+      "longitude": 18.4586665
+    },
+    {
+      "name": "Dr Jacqueline (Jackie) Thomson",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Parktown, Johannesburg, Gauteng",
+      "description": "Acute Leukemia, Anaemia, Blood Disorders, Bone Marrow Failure, Bone Marrow Transplants, ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=96891",
+      "latitude": -26.18157,
+      "longitude": 28.03131
+    },
+    {
+      "name": "Prof Nicolas Novitzky",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Rondebosch, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9542489,
+      "longitude": 18.4909071
+    },
+    {
+      "name": "Dr Gerhard Otto Sissolak",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Foreshore, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.917725,
+      "longitude": 18.4307651
+    },
+    {
+      "name": "Dr Michael Peter Africa-Cass",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Kuils River, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9188333,
+      "longitude": 18.6750069
+    },
+    {
+      "name": "Dr Shinny Eskander Alimia",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Parktown, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.18157,
+      "longitude": 28.03131
+    },
+    {
+      "name": "Dr Mohamed Arbee",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Mayfair West, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1975238,
+      "longitude": 28.0040816
+    },
+    {
+      "name": "Dr Philippa Irene Ashmore",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Olivedale, Randburg, Gauteng",
+      "description": null,
+      "latitude": -26.056736,
+      "longitude": 27.9718612
+    },
+    {
+      "name": "Dr Rohaan Badree",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Umhlanga Rocks, Umhlanga, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.7280095,
+      "longitude": 31.0692584
+    },
+    {
+      "name": "Dr Otto Norman Beck",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Bryanston, Sandton, Gauteng",
+      "description": null,
+      "latitude": -26.0775044,
+      "longitude": 28.0124305
+    },
+    {
+      "name": "Dr Maresce Kerry Bizaare",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Pietermaritzburg, Pietermaritzburg, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.5803864,
+      "longitude": 30.3631884
+    },
+    {
+      "name": "Dr Simon Brett",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Kuils River, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9188372,
+      "longitude": 18.67501
+    },
+    {
+      "name": "Dr Pieter De Witt",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Kuils River, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9187967,
+      "longitude": 18.6749958
+    },
+    {
+      "name": "Dr Cecile Elizabeth Du Toit",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Observatory, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9410889,
+      "longitude": 18.4617316
+    },
+    {
+      "name": "Dr John Michael Guinness (Mike) Du Toit",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Plumstead, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -34.0266448,
+      "longitude": 18.4613467
+    },
+    {
+      "name": "Dr Justin Rudolph Du Toit",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Parktown, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.18157,
+      "longitude": 28.03131
+    },
+    {
+      "name": "Dr Fatima Bibi Fazel",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Parow, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9106156,
+      "longitude": 18.612974
+    },
+    {
+      "name": "Dr Erma Gardner (Poulet)",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Observatory, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9409067,
+      "longitude": 18.4616835
+    },
+    {
+      "name": "Dr Lindokuhle Nwabisa Goqwana",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Diepkloof, Diepkloof, Gauteng",
+      "description": null,
+      "latitude": -26.2610849,
+      "longitude": 27.9426964
+    },
+    {
+      "name": "Prof Errol Anthony Holland",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "The Willows, Pretoria, Gauteng",
+      "description": null,
+      "latitude": -25.765679,
+      "longitude": 28.307834
+    },
+    {
+      "name": "Dr Arend John Isaacs",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Plettenberg Bay, Plettenberg Bay, Western Cape",
+      "description": null,
+      "latitude": -34.0532397,
+      "longitude": 23.3655813
+    },
+    {
+      "name": "Dr Jacques Johannes Janse van Rensburg",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Somerset West, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -34.0907095,
+      "longitude": 18.8587832
+    },
+    {
+      "name": "Dr Romana Jassat",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Moreletapark, Pretoria, Gauteng",
+      "description": null,
+      "latitude": -25.8211197,
+      "longitude": 28.3045337
+    },
+    {
+      "name": "Dr Vinod Behari Jogessar",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "West Ridge, Berea, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.851784,
+      "longitude": 30.985807
+    },
+    {
+      "name": "Dr Johannes Jochemus Eucharistius Koornhof",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Kuils River, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9188323,
+      "longitude": 18.6749636
+    },
+    {
+      "name": "Dr Dirk Daniel Joubert (Danie) Kotze",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Plumstead, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -34.0265336,
+      "longitude": 18.4614969
+    },
+    {
+      "name": "Dr Garrick Edouard Laudin",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Diepkloof, Diepkloof, Gauteng",
+      "description": null,
+      "latitude": -26.2613609,
+      "longitude": 27.9426395
+    },
+    {
+      "name": "Dr Neil Littleton",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Newton Park, Gqeberha, Eastern Cape",
+      "description": null,
+      "latitude": -33.9468242,
+      "longitude": 25.5721279
+    },
+    {
+      "name": "Dr Perry Loebenberg",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Plumstead, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -34.0266714,
+      "longitude": 18.4613413
+    },
+    {
+      "name": "Prof Vernon Johan Louw",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Observatory, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9424958,
+      "longitude": 18.4632473
+    },
+    {
+      "name": "Dr Jacques Le Roux Malherbe",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Universitas, Bloemfontein, Free State",
+      "description": null,
+      "latitude": -29.1177705,
+      "longitude": 26.1839235
+    },
+    {
+      "name": "Prof Moosa Patel",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Braamfontein, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1916888,
+      "longitude": 28.0327615
+    },
+    {
+      "name": "Dr Farah Rahman",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Amanzimtoti, Amanzimtoti, KwaZulu-Natal",
+      "description": null,
+      "latitude": -30.0322267,
+      "longitude": 30.9046896
+    },
+    {
+      "name": "Dr Mmamoloko Joseph Rasesemola",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Polokwane, Polokwane, Limpopo",
+      "description": null,
+      "latitude": -23.8994742,
+      "longitude": 29.4615971
+    },
+    {
+      "name": "Dr Adrian Schmidt",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Panorama, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.876282,
+      "longitude": 18.575818
+    },
+    {
+      "name": "Dr Jaimendra Prithipal Singh",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "West Ridge, Berea, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.8517959,
+      "longitude": 30.9859908
+    },
+    {
+      "name": "Dr Caroline Gina Steyn",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Universitas, Bloemfontein, Free State",
+      "description": null,
+      "latitude": -29.1168568,
+      "longitude": 26.1848083
+    },
+    {
+      "name": "Dr Gamuchirai Yeukai Tadzimirwa",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Observatory, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9382014,
+      "longitude": 18.4687792
+    },
+    {
+      "name": "Dr Arie Unger",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Goodwood, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.8938713,
+      "longitude": 18.5585365
+    },
+    {
+      "name": "Prof Estelle Ramona Verburgh",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Observatory, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9410028,
+      "longitude": 18.4617355
+    },
+    {
+      "name": "Dr Muhammed Faadil Waja",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Diepkloof, Diepkloof, Gauteng",
+      "description": null,
+      "latitude": -26.2613609,
+      "longitude": 27.9426395
+    },
+    {
+      "name": "Dr Michael John (Mike) Webb",
+      "title": "Physician (Clinical Haematologist)",
+      "location": "Southernwood, East London, Eastern Cape",
+      "description": null,
+      "latitude": -32.9983721,
+      "longitude": 27.9018234
     }
   ],
   "Physician (Cardiologist)": [
@@ -14625,355 +14966,6 @@
       "description": null,
       "latitude": -25.6741702,
       "longitude": 28.2443695
-    }
-  ],
-  "Physician (Clinical Haematologist)": [
-    {
-      "name": "Dr Honest Dewa",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Floracliffe, Roodepoort, Gauteng",
-      "description": "Bleeding Disorders, Bone Marrow Transplants, Clinical Haematology, Iron Deficiency, Leukemia, ...",
-      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=374121",
-      "latitude": -26.1512369,
-      "longitude": 27.9197786
-    },
-    {
-      "name": "Dr Shahroch Patrick Emile Nahrwar",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Tokai, Cape Town, Western Cape",
-      "description": "Anaemia, Blood Diseases, Bloodletting, Blood Products, Chemotherapy, Clinical Haematology, Clotting ...",
-      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=70927",
-      "latitude": -34.0679923,
-      "longitude": 18.4586665
-    },
-    {
-      "name": "Dr Jacqueline (Jackie) Thomson",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Parktown, Johannesburg, Gauteng",
-      "description": "Acute Leukemia, Anaemia, Blood Disorders, Bone Marrow Failure, Bone Marrow Transplants, ...",
-      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=96891",
-      "latitude": -26.18157,
-      "longitude": 28.03131
-    },
-    {
-      "name": "Prof Nicolas Novitzky",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Rondebosch, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9542489,
-      "longitude": 18.4909071
-    },
-    {
-      "name": "Dr Gerhard Otto Sissolak",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Foreshore, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.917725,
-      "longitude": 18.4307651
-    },
-    {
-      "name": "Dr Michael Peter Africa-Cass",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Kuils River, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9188333,
-      "longitude": 18.6750069
-    },
-    {
-      "name": "Dr Shinny Eskander Alimia",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Parktown, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.18157,
-      "longitude": 28.03131
-    },
-    {
-      "name": "Dr Mohamed Arbee",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Mayfair West, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1975238,
-      "longitude": 28.0040816
-    },
-    {
-      "name": "Dr Philippa Irene Ashmore",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Olivedale, Randburg, Gauteng",
-      "description": null,
-      "latitude": -26.056736,
-      "longitude": 27.9718612
-    },
-    {
-      "name": "Dr Rohaan Badree",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Umhlanga Rocks, Umhlanga, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.7280095,
-      "longitude": 31.0692584
-    },
-    {
-      "name": "Dr Otto Norman Beck",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Bryanston, Sandton, Gauteng",
-      "description": null,
-      "latitude": -26.0775044,
-      "longitude": 28.0124305
-    },
-    {
-      "name": "Dr Maresce Kerry Bizaare",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Pietermaritzburg, Pietermaritzburg, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.5803864,
-      "longitude": 30.3631884
-    },
-    {
-      "name": "Dr Simon Brett",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Kuils River, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9188372,
-      "longitude": 18.67501
-    },
-    {
-      "name": "Dr Pieter De Witt",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Kuils River, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9187967,
-      "longitude": 18.6749958
-    },
-    {
-      "name": "Dr Cecile Elizabeth Du Toit",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Observatory, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9410889,
-      "longitude": 18.4617316
-    },
-    {
-      "name": "Dr John Michael Guinness (Mike) Du Toit",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Plumstead, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -34.0266448,
-      "longitude": 18.4613467
-    },
-    {
-      "name": "Dr Justin Rudolph Du Toit",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Parktown, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.18157,
-      "longitude": 28.03131
-    },
-    {
-      "name": "Dr Fatima Bibi Fazel",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Parow, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9106156,
-      "longitude": 18.612974
-    },
-    {
-      "name": "Dr Erma Gardner (Poulet)",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Observatory, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9409067,
-      "longitude": 18.4616835
-    },
-    {
-      "name": "Dr Lindokuhle Nwabisa Goqwana",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Diepkloof, Diepkloof, Gauteng",
-      "description": null,
-      "latitude": -26.2610849,
-      "longitude": 27.9426964
-    },
-    {
-      "name": "Prof Errol Anthony Holland",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "The Willows, Pretoria, Gauteng",
-      "description": null,
-      "latitude": -25.765679,
-      "longitude": 28.307834
-    },
-    {
-      "name": "Dr Arend John Isaacs",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Plettenberg Bay, Plettenberg Bay, Western Cape",
-      "description": null,
-      "latitude": -34.0532397,
-      "longitude": 23.3655813
-    },
-    {
-      "name": "Dr Jacques Johannes Janse van Rensburg",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Somerset West, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -34.0907095,
-      "longitude": 18.8587832
-    },
-    {
-      "name": "Dr Romana Jassat",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Moreletapark, Pretoria, Gauteng",
-      "description": null,
-      "latitude": -25.8211197,
-      "longitude": 28.3045337
-    },
-    {
-      "name": "Dr Vinod Behari Jogessar",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "West Ridge, Berea, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.851784,
-      "longitude": 30.985807
-    },
-    {
-      "name": "Dr Johannes Jochemus Eucharistius Koornhof",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Kuils River, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9188323,
-      "longitude": 18.6749636
-    },
-    {
-      "name": "Dr Dirk Daniel Joubert (Danie) Kotze",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Plumstead, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -34.0265336,
-      "longitude": 18.4614969
-    },
-    {
-      "name": "Dr Garrick Edouard Laudin",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Diepkloof, Diepkloof, Gauteng",
-      "description": null,
-      "latitude": -26.2613609,
-      "longitude": 27.9426395
-    },
-    {
-      "name": "Dr Neil Littleton",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Newton Park, Gqeberha, Eastern Cape",
-      "description": null,
-      "latitude": -33.9468242,
-      "longitude": 25.5721279
-    },
-    {
-      "name": "Dr Perry Loebenberg",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Plumstead, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -34.0266714,
-      "longitude": 18.4613413
-    },
-    {
-      "name": "Prof Vernon Johan Louw",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Observatory, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9424958,
-      "longitude": 18.4632473
-    },
-    {
-      "name": "Dr Jacques Le Roux Malherbe",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Universitas, Bloemfontein, Free State",
-      "description": null,
-      "latitude": -29.1177705,
-      "longitude": 26.1839235
-    },
-    {
-      "name": "Prof Moosa Patel",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Braamfontein, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1916888,
-      "longitude": 28.0327615
-    },
-    {
-      "name": "Dr Farah Rahman",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Amanzimtoti, Amanzimtoti, KwaZulu-Natal",
-      "description": null,
-      "latitude": -30.0322267,
-      "longitude": 30.9046896
-    },
-    {
-      "name": "Dr Mmamoloko Joseph Rasesemola",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Polokwane, Polokwane, Limpopo",
-      "description": null,
-      "latitude": -23.8994742,
-      "longitude": 29.4615971
-    },
-    {
-      "name": "Dr Adrian Schmidt",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Panorama, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.876282,
-      "longitude": 18.575818
-    },
-    {
-      "name": "Dr Jaimendra Prithipal Singh",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "West Ridge, Berea, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.8516927,
-      "longitude": 30.9859391
-    },
-    {
-      "name": "Dr Caroline Gina Steyn",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Universitas, Bloemfontein, Free State",
-      "description": null,
-      "latitude": -29.1168568,
-      "longitude": 26.1848083
-    },
-    {
-      "name": "Dr Gamuchirai Yeukai Tadzimirwa",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Observatory, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9382014,
-      "longitude": 18.4687792
-    },
-    {
-      "name": "Dr Arie Unger",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Goodwood, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.8938713,
-      "longitude": 18.5585365
-    },
-    {
-      "name": "Prof Estelle Ramona Verburgh",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Observatory, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9410028,
-      "longitude": 18.4617355
-    },
-    {
-      "name": "Dr Muhammed Faadil Waja",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Diepkloof, Diepkloof, Gauteng",
-      "description": null,
-      "latitude": -26.2613609,
-      "longitude": 27.9426395
-    },
-    {
-      "name": "Dr Michael John (Mike) Webb",
-      "title": "Physician (Clinical Haematologist)",
-      "location": "Southernwood, East London, Eastern Cape",
-      "description": null,
-      "latitude": -32.9983721,
-      "longitude": 27.9018234
     }
   ],
   "Physician (Endocrinologist)": [
@@ -17641,6 +17633,14 @@
       "longitude": 28.1081902
     },
     {
+      "name": "Dr Deon Van Der Westhuizen",
+      "title": "Plastic and Reconstructive Surgeon",
+      "location": "Cape Town, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.92443,
+      "longitude": 18.41482
+    },
+    {
       "name": "Dr Christian Vyamungu",
       "title": "Plastic and Reconstructive Surgeon",
       "location": "Morningside, Sandton, Gauteng",
@@ -17882,14 +17882,6 @@
       "longitude": 26.1989232
     },
     {
-      "name": "Dr Keith Louis Featherstone Cronwright",
-      "title": "Plastic and Reconstructive Surgeon",
-      "location": "Claremont, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9852861,
-      "longitude": 18.4677205
-    },
-    {
       "name": "Dr Johannes Lodewikus Van Wyk",
       "title": "Plastic and Reconstructive Surgeon",
       "location": "Les Marais, Pretoria, Gauteng",
@@ -17942,8 +17934,8 @@
       "title": "Plastic and Reconstructive Surgeon",
       "location": "Audas Est, Cape Town, Western Cape",
       "description": null,
-      "latitude": -34.0818363,
-      "longitude": 18.84431
+      "latitude": -34.0818258,
+      "longitude": 18.8443217
     },
     {
       "name": "Dr Craig Peter Wittstock",
@@ -18520,6 +18512,15 @@
       "longitude": 18.4899398
     },
     {
+      "name": "Dr Zamahlubi Dlamini",
+      "title": "Psychiatrist",
+      "location": "Bryanston, Sandton, Gauteng",
+      "description": "ADHD, Adolescent Mental Health Disorders, Anxiety Disorders and Addiction, Mood Disorders, ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=418535",
+      "latitude": -26.0462937,
+      "longitude": 28.021931
+    },
+    {
       "name": "Dr Sigelo Owen Dludlu",
       "title": "Psychiatrist",
       "location": "Mabopane, Mabopane, Gauteng",
@@ -18799,23 +18800,6 @@
       "longitude": 27.9583006
     },
     {
-      "name": "Dr Shwetha Suresh",
-      "title": "Psychiatrist",
-      "location": "Vredekloof, Cape Town, Western Cape",
-      "description": "Adult Psychiatry, Bipolar Disorder, Child & Adolescent Psychiatry, Depressive Disorders, Psychotic ...",
-      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=1917568",
-      "latitude": -33.8610271,
-      "longitude": 18.6808098
-    },
-    {
-      "name": "Dr Sibulele Zuma",
-      "title": "Psychiatrist",
-      "location": "Diepkloof, Diepkloof, Gauteng",
-      "description": null,
-      "latitude": -26.261231,
-      "longitude": 27.9426395
-    },
-    {
       "name": "Dr Gopolang Ezekiel Zwide",
       "title": "Psychiatrist",
       "location": "Potchefstroom, Potchefstroom, North West",
@@ -18921,6 +18905,14 @@
       "description": null,
       "latitude": -25.7295261,
       "longitude": 28.2025152
+    },
+    {
+      "name": "Dr Thokoe Vincent (Thabiso) Makola",
+      "title": "Public Health Medicine specialist",
+      "location": "Pretoria, Pretoria, Gauteng",
+      "description": null,
+      "latitude": -25.7478108,
+      "longitude": 28.1914514
     },
     {
       "name": "Dr Ntsakisi Jessica Maluleke",
@@ -19254,8 +19246,8 @@
       "title": "Sports and Exercise Medicine specialist",
       "location": "Sasolburg, Sasolburg, Free State",
       "description": null,
-      "latitude": -26.8120915,
-      "longitude": 27.8293798
+      "latitude": -26.8120949,
+      "longitude": 27.8294016
     },
     {
       "name": "Dr Merchen Naudé",
@@ -19378,250 +19370,6 @@
       "description": null,
       "latitude": -25.7439237,
       "longitude": 28.2376383
-    }
-  ],
-  "Surgeon (Trauma Surgeon)": [
-    {
-      "name": "Dr Denis Allard",
-      "title": "Surgeon (Trauma Surgeon)",
-      "location": "Rondebosch, Cape Town, Western Cape",
-      "description": "Advanced Burns, Advanced Wound Care, General Surgical Conditions, Intensive Care, Surgical and ...",
-      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=120196",
-      "latitude": -33.9548341,
-      "longitude": 18.4916739
-    },
-    {
-      "name": "Dr Yuri Vasilievich Popov",
-      "title": "Surgeon (Trauma Surgeon)",
-      "location": "Morningside, Sandton, Gauteng",
-      "description": "Abdominal Surgery, General Surgery, Radiofrequency Ablation, Sclerotherapy, Varicose Veins",
-      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=83971",
-      "latitude": -26.0939821,
-      "longitude": 28.0553143
-    },
-    {
-      "name": "Dr Emmanuel Arko-Cobbah",
-      "title": "Surgeon (Trauma Surgeon)",
-      "location": "Heidedal, Bloemfontein, Free State",
-      "description": null,
-      "latitude": -29.1394274,
-      "longitude": 26.2447335
-    },
-    {
-      "name": "Dr Wanda Bekker",
-      "title": "Surgeon (Trauma Surgeon)",
-      "location": "Pietermaritzburg, Pietermaritzburg, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.5810925,
-      "longitude": 30.3633289
-    },
-    {
-      "name": "Dr Kirsten Emma Bischof",
-      "title": "Surgeon (Trauma Surgeon)",
-      "location": "Foreshore, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9175793,
-      "longitude": 18.430575
-    },
-    {
-      "name": "Prof Kenneth David Boffard",
-      "title": "Surgeon (Trauma Surgeon)",
-      "location": "Parktown West, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1798861,
-      "longitude": 28.0174419
-    },
-    {
-      "name": "Dr Damian Luiz Clarke",
-      "title": "Surgeon (Trauma Surgeon)",
-      "location": "Pietermaritzburg, Pietermaritzburg, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.6025206,
-      "longitude": 30.3856626
-    },
-    {
-      "name": "Dr Daniel Den Hollander",
-      "title": "Surgeon (Trauma Surgeon)",
-      "location": "Cato Ridge, Cato Ridge, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.7394625,
-      "longitude": 30.5848829
-    },
-    {
-      "name": "Dr Sorin Edu",
-      "title": "Surgeon (Trauma Surgeon)",
-      "location": "Observatory, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9410777,
-      "longitude": 18.4617075
-    },
-    {
-      "name": "Dr Michael Pierre (Mike) Faurie",
-      "title": "Surgeon (Trauma Surgeon)",
-      "location": "Assagay, Outer West Durban, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.7894359,
-      "longitude": 30.74241
-    },
-    {
-      "name": "Dr Leslie Maurice Fingleson",
-      "title": "Surgeon (Trauma Surgeon)",
-      "location": "Sunninghill, Sandton, Gauteng",
-      "description": null,
-      "latitude": -26.0377672,
-      "longitude": 28.0696428
-    },
-    {
-      "name": "Dr Samuel Asi Gyebi",
-      "title": "Surgeon (Trauma Surgeon)",
-      "location": "Newmarket Park, Alberton, Gauteng",
-      "description": null,
-      "latitude": -26.2744925,
-      "longitude": 28.1274032
-    },
-    {
-      "name": "Dr Timothy Craig Hardcastle",
-      "title": "Surgeon (Trauma Surgeon)",
-      "location": "Cato Manor, Durban, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.8736181,
-      "longitude": 30.9591806
-    },
-    {
-      "name": "Dr Isabella Margaretha Joubert",
-      "title": "Surgeon (Trauma Surgeon)",
-      "location": "Parktown West, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1799788,
-      "longitude": 28.0174811
-    },
-    {
-      "name": "Dr Naadiyah Laher",
-      "title": "Surgeon (Trauma Surgeon)",
-      "location": "Newmarket Park, Alberton, Gauteng",
-      "description": null,
-      "latitude": -26.2744902,
-      "longitude": 28.1265708
-    },
-    {
-      "name": "Dr Christiaan Andre Loubser",
-      "title": "Surgeon (Trauma Surgeon)",
-      "location": "Bloemfontein, Bloemfontein, Free State",
-      "description": null,
-      "latitude": -29.1075298,
-      "longitude": 26.2980384
-    },
-    {
-      "name": "Dr Vassil Nikolaev Manchev",
-      "title": "Surgeon (Trauma Surgeon)",
-      "location": "Pietermaritzburg, Pietermaritzburg, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.6025206,
-      "longitude": 30.3856626
-    },
-    {
-      "name": "Dr Deidre Estelle Kathleen McPherson",
-      "title": "Surgeon (Trauma Surgeon)",
-      "location": "Foreshore, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9178776,
-      "longitude": 18.4307812
-    },
-    {
-      "name": "Dr Maeyane Stephens (Steve) Moeng",
-      "title": "Surgeon (Trauma Surgeon)",
-      "location": "Parktown West, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1797953,
-      "longitude": 28.0174713
-    },
-    {
-      "name": "Dr Phinias Mogabe",
-      "title": "Surgeon (Trauma Surgeon)",
-      "location": "Newmarket Park, Alberton, Gauteng",
-      "description": null,
-      "latitude": -26.274478,
-      "longitude": 28.1274166
-    },
-    {
-      "name": "Dr Saundrarajan Moodley",
-      "title": "Surgeon (Trauma Surgeon)",
-      "location": "Bulwer, Berea, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.8545173,
-      "longitude": 30.9868131
-    },
-    {
-      "name": "Prof Pradeep Harkison Navsaria",
-      "title": "Surgeon (Trauma Surgeon)",
-      "location": "Observatory, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9412174,
-      "longitude": 18.4621139
-    },
-    {
-      "name": "Dr Andrew John Nicol",
-      "title": "Surgeon (Trauma Surgeon)",
-      "location": "Observatory, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9412921,
-      "longitude": 18.4621701
-    },
-    {
-      "name": "Dr George Valentine Eastland Oosthuizen",
-      "title": "Surgeon (Trauma Surgeon)",
-      "location": "Parow, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9076659,
-      "longitude": 18.6124198
-    },
-    {
-      "name": "Dr Wojciech Piotrowicz",
-      "title": "Surgeon (Trauma Surgeon)",
-      "location": "Diepkloof, Diepkloof, Gauteng",
-      "description": null,
-      "latitude": -26.2432,
-      "longitude": 28.0087
-    },
-    {
-      "name": "Dr Franco Plani",
-      "title": "Surgeon (Trauma Surgeon)",
-      "location": "Newmarket Park, Alberton, Gauteng",
-      "description": null,
-      "latitude": -26.2745021,
-      "longitude": 28.1274112
-    },
-    {
-      "name": "Dr Riaan Pretorius",
-      "title": "Surgeon (Trauma Surgeon)",
-      "location": "Parktown West, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1797722,
-      "longitude": 28.0174997
-    },
-    {
-      "name": "Dr Mohammad Alamgir Quazi",
-      "title": "Surgeon (Trauma Surgeon)",
-      "location": "Pietermaritzburg, Pietermaritzburg, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.5925808,
-      "longitude": 30.3912312
-    },
-    {
-      "name": "Prof Elmin Steyn",
-      "title": "Surgeon (Trauma Surgeon)",
-      "location": "Parow, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9077888,
-      "longitude": 18.6124522
-    },
-    {
-      "name": "Dr Liezel Phyllis Taylor",
-      "title": "Surgeon (Trauma Surgeon)",
-      "location": "Cape Town, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9248685,
-      "longitude": 18.4240553
     }
   ],
   "Radiologist": [
@@ -19990,6 +19738,250 @@
       "description": null,
       "latitude": -30.8615191,
       "longitude": 30.3582249
+    }
+  ],
+  "Surgeon (Trauma Surgeon)": [
+    {
+      "name": "Dr Denis Allard",
+      "title": "Surgeon (Trauma Surgeon)",
+      "location": "Rondebosch, Cape Town, Western Cape",
+      "description": "Advanced Burns, Advanced Wound Care, General Surgical Conditions, Intensive Care, Surgical and ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=120196",
+      "latitude": -33.9548341,
+      "longitude": 18.4916739
+    },
+    {
+      "name": "Dr Yuri Vasilievich Popov",
+      "title": "Surgeon (Trauma Surgeon)",
+      "location": "Morningside, Sandton, Gauteng",
+      "description": "Abdominal Surgery, General Surgery, Radiofrequency Ablation, Sclerotherapy, Varicose Veins",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=83971",
+      "latitude": -26.0939821,
+      "longitude": 28.0553143
+    },
+    {
+      "name": "Dr Emmanuel Arko-Cobbah",
+      "title": "Surgeon (Trauma Surgeon)",
+      "location": "Heidedal, Bloemfontein, Free State",
+      "description": null,
+      "latitude": -29.1394274,
+      "longitude": 26.2447335
+    },
+    {
+      "name": "Dr Wanda Bekker",
+      "title": "Surgeon (Trauma Surgeon)",
+      "location": "Pietermaritzburg, Pietermaritzburg, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.5810925,
+      "longitude": 30.3633289
+    },
+    {
+      "name": "Dr Kirsten Emma Bischof",
+      "title": "Surgeon (Trauma Surgeon)",
+      "location": "Foreshore, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9175793,
+      "longitude": 18.430575
+    },
+    {
+      "name": "Prof Kenneth David Boffard",
+      "title": "Surgeon (Trauma Surgeon)",
+      "location": "Parktown West, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1798861,
+      "longitude": 28.0174419
+    },
+    {
+      "name": "Dr Damian Luiz Clarke",
+      "title": "Surgeon (Trauma Surgeon)",
+      "location": "Pietermaritzburg, Pietermaritzburg, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.6025206,
+      "longitude": 30.3856626
+    },
+    {
+      "name": "Dr Daniel Den Hollander",
+      "title": "Surgeon (Trauma Surgeon)",
+      "location": "Cato Ridge, Cato Ridge, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.7394625,
+      "longitude": 30.5848829
+    },
+    {
+      "name": "Dr Sorin Edu",
+      "title": "Surgeon (Trauma Surgeon)",
+      "location": "Observatory, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9410777,
+      "longitude": 18.4617075
+    },
+    {
+      "name": "Dr Michael Pierre (Mike) Faurie",
+      "title": "Surgeon (Trauma Surgeon)",
+      "location": "Assagay, Outer West Durban, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.7894359,
+      "longitude": 30.74241
+    },
+    {
+      "name": "Dr Leslie Maurice Fingleson",
+      "title": "Surgeon (Trauma Surgeon)",
+      "location": "Sunninghill, Sandton, Gauteng",
+      "description": null,
+      "latitude": -26.0377672,
+      "longitude": 28.0696428
+    },
+    {
+      "name": "Dr Samuel Asi Gyebi",
+      "title": "Surgeon (Trauma Surgeon)",
+      "location": "Newmarket Park, Alberton, Gauteng",
+      "description": null,
+      "latitude": -26.2744925,
+      "longitude": 28.1274032
+    },
+    {
+      "name": "Dr Timothy Craig Hardcastle",
+      "title": "Surgeon (Trauma Surgeon)",
+      "location": "Cato Manor, Durban, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.8736181,
+      "longitude": 30.9591806
+    },
+    {
+      "name": "Dr Isabella Margaretha Joubert",
+      "title": "Surgeon (Trauma Surgeon)",
+      "location": "Parktown West, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1799788,
+      "longitude": 28.0174811
+    },
+    {
+      "name": "Dr Naadiyah Laher",
+      "title": "Surgeon (Trauma Surgeon)",
+      "location": "Newmarket Park, Alberton, Gauteng",
+      "description": null,
+      "latitude": -26.2744902,
+      "longitude": 28.1265708
+    },
+    {
+      "name": "Dr Christiaan Andre Loubser",
+      "title": "Surgeon (Trauma Surgeon)",
+      "location": "Bloemfontein, Bloemfontein, Free State",
+      "description": null,
+      "latitude": -29.1075298,
+      "longitude": 26.2980384
+    },
+    {
+      "name": "Dr Vassil Nikolaev Manchev",
+      "title": "Surgeon (Trauma Surgeon)",
+      "location": "Pietermaritzburg, Pietermaritzburg, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.6025206,
+      "longitude": 30.3856626
+    },
+    {
+      "name": "Dr Deidre Estelle Kathleen McPherson",
+      "title": "Surgeon (Trauma Surgeon)",
+      "location": "Foreshore, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9178776,
+      "longitude": 18.4307812
+    },
+    {
+      "name": "Dr Maeyane Stephens (Steve) Moeng",
+      "title": "Surgeon (Trauma Surgeon)",
+      "location": "Parktown West, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1797953,
+      "longitude": 28.0174713
+    },
+    {
+      "name": "Dr Phinias Mogabe",
+      "title": "Surgeon (Trauma Surgeon)",
+      "location": "Newmarket Park, Alberton, Gauteng",
+      "description": null,
+      "latitude": -26.274478,
+      "longitude": 28.1274166
+    },
+    {
+      "name": "Dr Saundrarajan Moodley",
+      "title": "Surgeon (Trauma Surgeon)",
+      "location": "Bulwer, Berea, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.8545173,
+      "longitude": 30.9868131
+    },
+    {
+      "name": "Prof Pradeep Harkison Navsaria",
+      "title": "Surgeon (Trauma Surgeon)",
+      "location": "Observatory, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9412174,
+      "longitude": 18.4621139
+    },
+    {
+      "name": "Dr Andrew John Nicol",
+      "title": "Surgeon (Trauma Surgeon)",
+      "location": "Observatory, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9412921,
+      "longitude": 18.4621701
+    },
+    {
+      "name": "Dr George Valentine Eastland Oosthuizen",
+      "title": "Surgeon (Trauma Surgeon)",
+      "location": "Parow, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9076659,
+      "longitude": 18.6124198
+    },
+    {
+      "name": "Dr Wojciech Piotrowicz",
+      "title": "Surgeon (Trauma Surgeon)",
+      "location": "Diepkloof, Diepkloof, Gauteng",
+      "description": null,
+      "latitude": -26.2432,
+      "longitude": 28.0087
+    },
+    {
+      "name": "Dr Franco Plani",
+      "title": "Surgeon (Trauma Surgeon)",
+      "location": "Newmarket Park, Alberton, Gauteng",
+      "description": null,
+      "latitude": -26.2745021,
+      "longitude": 28.1274112
+    },
+    {
+      "name": "Dr Riaan Pretorius",
+      "title": "Surgeon (Trauma Surgeon)",
+      "location": "Parktown West, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1797722,
+      "longitude": 28.0174997
+    },
+    {
+      "name": "Dr Mohammad Alamgir Quazi",
+      "title": "Surgeon (Trauma Surgeon)",
+      "location": "Pietermaritzburg, Pietermaritzburg, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.5925808,
+      "longitude": 30.3912312
+    },
+    {
+      "name": "Prof Elmin Steyn",
+      "title": "Surgeon (Trauma Surgeon)",
+      "location": "Parow, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9077888,
+      "longitude": 18.6124522
+    },
+    {
+      "name": "Dr Liezel Phyllis Taylor",
+      "title": "Surgeon (Trauma Surgeon)",
+      "location": "Cape Town, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9248685,
+      "longitude": 18.4240553
     }
   ],
   "Surgeon (Gastroenterologist)": [
@@ -20736,6 +20728,14 @@
       "longitude": 27.9198108
     },
     {
+      "name": "Dr Babongile Margaret Winnie Zulu",
+      "title": "Surgeon",
+      "location": "Queenstown, Queenstown, Eastern Cape",
+      "description": null,
+      "latitude": -31.8979744,
+      "longitude": 26.8812108
+    },
+    {
       "name": "Dr Halalisani Goodman Zulu",
       "title": "Surgeon",
       "location": "Harrismith, Harrismith, Free State",
@@ -20984,8 +20984,8 @@
       "title": "Surgeon (Paediatric Surgeon)",
       "location": "Mayville, Durban, KwaZulu-Natal",
       "description": null,
-      "latitude": -29.8432974,
-      "longitude": 30.9787968
+      "latitude": -29.8434091,
+      "longitude": 30.9787432
     },
     {
       "name": "Dr Kasongo Marie Josee Kasakanga",
@@ -21164,8 +21164,8 @@
       "title": "Surgeon (Vascular Surgeon)",
       "location": "Universitas, Bloemfontein, Free State",
       "description": null,
-      "latitude": -29.1179709,
-      "longitude": 26.1838691
+      "latitude": -29.1178427,
+      "longitude": 26.1838906
     },
     {
       "name": "Dr Konrad Botes",
@@ -21811,14 +21811,6 @@
       "description": null,
       "latitude": -29.7775032,
       "longitude": 30.9957895
-    },
-    {
-      "name": "Dr Jonathan Henri Wicht",
-      "title": "Urologist",
-      "location": "Milnerton, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.865801,
-      "longitude": 18.5064697
     },
     {
       "name": "Dr Leroy Bertram Witbooi",
@@ -22695,7 +22687,7 @@
       "name": "Mrs Samukelisiwe (Samke) Charity Okonkwo",
       "title": "Psychologist - Clinical",
       "location": "Milnerton, Cape Town, Western Cape",
-      "description": "Acquired Brain Injury Rehabilitation, Mental Health & Wellbeing, Mood & Anxiety Disorders, ...",
+      "description": "Adjustment Difficulties, Anxiety & Mood Related Difficulties, Neurodiversity-Affirming Care (ADHD, ...",
       "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=265923",
       "latitude": -33.8644294,
       "longitude": 18.5044589
@@ -22865,6 +22857,14 @@
       "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=215403",
       "latitude": -33.9346154,
       "longitude": 18.8614845
+    },
+    {
+      "name": "Mrs Lucille Zwemstra",
+      "title": "Psychologist - Clinical",
+      "location": "Hartbeespoort, Hartbeespoort, North West",
+      "description": null,
+      "latitude": -25.7353482,
+      "longitude": 27.8964958
     },
     {
       "name": "Mrs Sarah Zworestine",
@@ -23212,6 +23212,14 @@
       "longitude": 28.03332
     },
     {
+      "name": "Mr Mthandeki Simon Zhange",
+      "title": "Psychologist - Educational",
+      "location": "Elim Hospital, Louis Trichardt, Limpopo",
+      "description": null,
+      "latitude": -23.4012946,
+      "longitude": 29.4179324
+    },
+    {
       "name": "Ms Judith Zingel",
       "title": "Psychologist - Educational",
       "location": "Howick, Howick, KwaZulu-Natal",
@@ -23250,410 +23258,6 @@
       "description": null,
       "latitude": -24.6998854,
       "longitude": 28.4030978
-    }
-  ],
-  "Psychologist - Neuro": [
-    {
-      "name": "Dr Joachim Fana Lance Mureriwa",
-      "title": "Psychologist - Neuro",
-      "location": "Colbyn, Pretoria, Gauteng",
-      "description": "EEG Biofeedback Therapy, EEG Neuro-Imaging, Medico-Legal Reports, Neurological Disorders, ...",
-      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=36572",
-      "latitude": -25.7422062,
-      "longitude": 28.2445165
-    },
-    {
-      "name": "Dr Marius Riaan Olivier",
-      "title": "Psychologist - Neuro",
-      "location": "N1 City, Cape Town, Western Cape",
-      "description": "",
-      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=36156",
-      "latitude": -33.8937128,
-      "longitude": 18.5585587
-    },
-    {
-      "name": "Mrs Marilyn Jean Adan",
-      "title": "Psychologist - Neuro",
-      "location": "Bryanbrink, Randburg, Gauteng",
-      "description": null,
-      "latitude": -26.0754379,
-      "longitude": 28.0001843
-    },
-    {
-      "name": "Ms Caroline Leigh (Carrie) Allen",
-      "title": "Psychologist - Neuro",
-      "location": "Claremont, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9853514,
-      "longitude": 18.4677659
-    },
-    {
-      "name": "Dr Mariza Beddow (Van Wyk)",
-      "title": "Psychologist - Neuro",
-      "location": "Sea Point, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9186462,
-      "longitude": 18.3876486
-    },
-    {
-      "name": "Mrs Christine Ann Buchanan",
-      "title": "Psychologist - Neuro",
-      "location": "Claremont, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9853514,
-      "longitude": 18.4677659
-    },
-    {
-      "name": "Prof Katherine Alexandra Sarah (Kate) Cockcroft",
-      "title": "Psychologist - Neuro",
-      "location": "Braamfontein, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1905943,
-      "longitude": 28.0309432
-    },
-    {
-      "name": "Miss Talita Maria Ferreira Da Costa",
-      "title": "Psychologist - Neuro",
-      "location": "Bedford Gardens, Germiston, Gauteng",
-      "description": null,
-      "latitude": -26.1896341,
-      "longitude": 28.1209323
-    },
-    {
-      "name": "Dr Vicki Ives Deliperi",
-      "title": "Psychologist - Neuro",
-      "location": "Plumstead, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -34.0270671,
-      "longitude": 18.4620226
-    },
-    {
-      "name": "Miss Heesoo Melanie Diara",
-      "title": "Psychologist - Neuro",
-      "location": "Rondebosch, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9556636,
-      "longitude": 18.4608997
-    },
-    {
-      "name": "Miss Aimee Kim Dollman",
-      "title": "Psychologist - Neuro",
-      "location": "Edgemead, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.8698544,
-      "longitude": 18.5463295
-    },
-    {
-      "name": "Dr Amy Duncan",
-      "title": "Psychologist - Neuro",
-      "location": "Blouberg Sands, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.807695,
-      "longitude": 18.4803474
-    },
-    {
-      "name": "Miss Annette Du Plessis",
-      "title": "Psychologist - Neuro",
-      "location": "Van Der Stel, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -34.09346,
-      "longitude": 18.856729
-    },
-    {
-      "name": "Ms Rita Du Plessis",
-      "title": "Psychologist - Neuro",
-      "location": "Monumentpark, Pretoria, Gauteng",
-      "description": null,
-      "latitude": -25.8003492,
-      "longitude": 28.2291569
-    },
-    {
-      "name": "Dr Christopher Peter Du Plooy",
-      "title": "Psychologist - Neuro",
-      "location": "Pinelands, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9444497,
-      "longitude": 18.4899804
-    },
-    {
-      "name": "Mrs Teneille Ashleigh Evans",
-      "title": "Psychologist - Neuro",
-      "location": "Kenilworth, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9909467,
-      "longitude": 18.4851422
-    },
-    {
-      "name": "Dr Aline Ferreira Correia",
-      "title": "Psychologist - Neuro",
-      "location": "Braamfontein, Johannesburg, Gauteng",
-      "description": null,
-      "latitude": -26.1904478,
-      "longitude": 28.031079
-    },
-    {
-      "name": "Mrs Yvonne Gartner",
-      "title": "Psychologist - Neuro",
-      "location": "Tokai, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -34.0634046,
-      "longitude": 18.4538391
-    },
-    {
-      "name": "Dr Charmaine Gordon",
-      "title": "Psychologist - Neuro",
-      "location": "Randpark, Randburg, Gauteng",
-      "description": null,
-      "latitude": -26.1151187,
-      "longitude": 27.9741984
-    },
-    {
-      "name": "Mrs Emma-Louise Catherine Gray",
-      "title": "Psychologist - Neuro",
-      "location": "Meadowridge, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -34.0300618,
-      "longitude": 18.4508245
-    },
-    {
-      "name": "Dr Kate Hamilton",
-      "title": "Psychologist - Neuro",
-      "location": "Morningside, Sandton, Gauteng",
-      "description": null,
-      "latitude": -26.0946336,
-      "longitude": 28.0551074
-    },
-    {
-      "name": "Dr Rosanne Marie Hardy",
-      "title": "Psychologist - Neuro",
-      "location": "Umhlanga Rocks, Umhlanga, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.7399369,
-      "longitude": 31.0779377
-    },
-    {
-      "name": "Miss Angela Louise Harwood",
-      "title": "Psychologist - Neuro",
-      "location": "Pinelands, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9436398,
-      "longitude": 18.4903774
-    },
-    {
-      "name": "Dr Coenraad Jacobus Hattingh",
-      "title": "Psychologist - Neuro",
-      "location": "Bloubergstrand, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.8194491,
-      "longitude": 18.4865663
-    },
-    {
-      "name": "Mrs Ann Mary Hofmeyr",
-      "title": "Psychologist - Neuro",
-      "location": "Victory Park, Randburg, Gauteng",
-      "description": null,
-      "latitude": -26.1443094,
-      "longitude": 28.0016778
-    },
-    {
-      "name": "Mrs Ingrid Jonker",
-      "title": "Psychologist - Neuro",
-      "location": "Centurion, Centurion, Gauteng",
-      "description": null,
-      "latitude": -25.8610942,
-      "longitude": 28.2556317
-    },
-    {
-      "name": "Dr Noorjehan Joosub-Vawda",
-      "title": "Psychologist - Neuro",
-      "location": "Boskruin, Randburg, Gauteng",
-      "description": null,
-      "latitude": -26.0878767,
-      "longitude": 27.9587638
-    },
-    {
-      "name": "Dr Mathews Mbangwa (Dr Phale) Katjene",
-      "title": "Psychologist - Neuro",
-      "location": "Arcadia, Pretoria, Gauteng",
-      "description": null,
-      "latitude": -25.7419124,
-      "longitude": 28.2146958
-    },
-    {
-      "name": "Dr Doret Karen Kirsten",
-      "title": "Psychologist - Neuro",
-      "location": "Potchefstroom, Potchefstroom, North West",
-      "description": null,
-      "latitude": -26.7055097,
-      "longitude": 27.1027484
-    },
-    {
-      "name": "Ms Candice Marie Joan Knipe",
-      "title": "Psychologist - Neuro",
-      "location": "Mowbray, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.949097,
-      "longitude": 18.4812087
-    },
-    {
-      "name": "Mrs Talia Haidee Lanesman",
-      "title": "Psychologist - Neuro",
-      "location": "Claremont, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9800025,
-      "longitude": 18.4824554
-    },
-    {
-      "name": "Mrs Colleen Ashleigh Law",
-      "title": "Psychologist - Neuro",
-      "location": "Table View, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.8182883,
-      "longitude": 18.4954937
-    },
-    {
-      "name": "Ms Marina Anne Lawrence",
-      "title": "Psychologist - Neuro",
-      "location": "Pinelands, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9437072,
-      "longitude": 18.490369
-    },
-    {
-      "name": "Dr Nadine Michelle Lindinger",
-      "title": "Psychologist - Neuro",
-      "location": "Cape Town, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.922087,
-      "longitude": 18.4231418
-    },
-    {
-      "name": "Mr Robert Michael MacFarlane",
-      "title": "Psychologist - Neuro",
-      "location": "Parkmore, Sandton, Gauteng",
-      "description": null,
-      "latitude": -26.1003314,
-      "longitude": 28.0468649
-    },
-    {
-      "name": "Prof Susan Michelle Malcolm-Smith",
-      "title": "Psychologist - Neuro",
-      "location": "Rondebosch, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.95605,
-      "longitude": 18.4614421
-    },
-    {
-      "name": "Mr Petrus Jacobus Johannes Marais",
-      "title": "Psychologist - Neuro",
-      "location": "Waterkloof Ridge, Pretoria, Gauteng",
-      "description": null,
-      "latitude": -25.814495,
-      "longitude": 28.239789
-    },
-    {
-      "name": "Mr Bokang Methola",
-      "title": "Psychologist - Neuro",
-      "location": "Southernwood, East London, Eastern Cape",
-      "description": null,
-      "latitude": -32.996718,
-      "longitude": 27.9048141
-    },
-    {
-      "name": "Dr Donné Minné",
-      "title": "Psychologist - Neuro",
-      "location": "Sea Point, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9142204,
-      "longitude": 18.392333
-    },
-    {
-      "name": "Dr Eleni Pantelis",
-      "title": "Psychologist - Neuro",
-      "location": "Rondebosch, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.95605,
-      "longitude": 18.4614421
-    },
-    {
-      "name": "Mrs Alexa Caitlin Soule",
-      "title": "Psychologist - Neuro",
-      "location": "Rondebosch, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9623745,
-      "longitude": 18.4896674
-    },
-    {
-      "name": "Mrs Erika Steenberg",
-      "title": "Psychologist - Neuro",
-      "location": "Blouberg Sands, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.807695,
-      "longitude": 18.4803474
-    },
-    {
-      "name": "Miss Nina Simone Steenkamp",
-      "title": "Psychologist - Neuro",
-      "location": "Rondebosch, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9549007,
-      "longitude": 18.4916507
-    },
-    {
-      "name": "Mrs Serotele Thulare",
-      "title": "Psychologist - Neuro",
-      "location": "Benoni, Benoni, Gauteng",
-      "description": null,
-      "latitude": -26.184328,
-      "longitude": 28.3127293
-    },
-    {
-      "name": "Mr Altay Yuce Turan",
-      "title": "Psychologist - Neuro",
-      "location": "Rondebosch, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.9722722,
-      "longitude": 18.4741565
-    },
-    {
-      "name": "Mr Johannes Hendrikus (Rikus) Van Der Poel",
-      "title": "Psychologist - Neuro",
-      "location": "Dan Pienaar, Bloemfontein, Free State",
-      "description": null,
-      "latitude": -29.0882337,
-      "longitude": 26.2097888
-    },
-    {
-      "name": "Dr Marina van Der Ryst",
-      "title": "Psychologist - Neuro",
-      "location": "Lynnwood Manor, Pretoria, Gauteng",
-      "description": null,
-      "latitude": -25.7596144,
-      "longitude": 28.2861868
-    },
-    {
-      "name": "Dr Lea-Ann van Hoorn (Pileggi)",
-      "title": "Psychologist - Neuro",
-      "location": "Lakeside, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -34.0804628,
-      "longitude": 18.4561191
-    },
-    {
-      "name": "Dr Ann Dorothea Watts",
-      "title": "Psychologist - Neuro",
-      "location": "Bulwer, Berea, KwaZulu-Natal",
-      "description": null,
-      "latitude": -29.8544958,
-      "longitude": 30.9868024
-    },
-    {
-      "name": "Mr Abraham Dirk Zeilinga",
-      "title": "Psychologist - Neuro",
-      "location": "Bloubergrise, Cape Town, Western Cape",
-      "description": null,
-      "latitude": -33.8187746,
-      "longitude": 18.4769989
     }
   ],
   "Psychologist - Industrial": [
@@ -24049,6 +23653,410 @@
       "longitude": 28.192001
     }
   ],
+  "Psychologist - Neuro": [
+    {
+      "name": "Dr Joachim Fana Lance Mureriwa",
+      "title": "Psychologist - Neuro",
+      "location": "Colbyn, Pretoria, Gauteng",
+      "description": "EEG Biofeedback Therapy, EEG Neuro-Imaging, Medico-Legal Reports, Neurological Disorders, ...",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=36572",
+      "latitude": -25.7422062,
+      "longitude": 28.2445165
+    },
+    {
+      "name": "Dr Marius Riaan Olivier",
+      "title": "Psychologist - Neuro",
+      "location": "N1 City, Cape Town, Western Cape",
+      "description": "",
+      "profile_url": "https://www.medpages.info/sf/index.php?page=person&personcode=36156",
+      "latitude": -33.8937128,
+      "longitude": 18.5585587
+    },
+    {
+      "name": "Mrs Marilyn Jean Adan",
+      "title": "Psychologist - Neuro",
+      "location": "Bryanbrink, Randburg, Gauteng",
+      "description": null,
+      "latitude": -26.0754379,
+      "longitude": 28.0001843
+    },
+    {
+      "name": "Ms Caroline Leigh (Carrie) Allen",
+      "title": "Psychologist - Neuro",
+      "location": "Claremont, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9853514,
+      "longitude": 18.4677659
+    },
+    {
+      "name": "Dr Mariza Beddow (Van Wyk)",
+      "title": "Psychologist - Neuro",
+      "location": "Sea Point, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9186462,
+      "longitude": 18.3876486
+    },
+    {
+      "name": "Mrs Christine Ann Buchanan",
+      "title": "Psychologist - Neuro",
+      "location": "Claremont, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9853514,
+      "longitude": 18.4677659
+    },
+    {
+      "name": "Prof Katherine Alexandra Sarah (Kate) Cockcroft",
+      "title": "Psychologist - Neuro",
+      "location": "Braamfontein, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1905943,
+      "longitude": 28.0309432
+    },
+    {
+      "name": "Miss Talita Maria Ferreira Da Costa",
+      "title": "Psychologist - Neuro",
+      "location": "Bedford Gardens, Germiston, Gauteng",
+      "description": null,
+      "latitude": -26.1896341,
+      "longitude": 28.1209323
+    },
+    {
+      "name": "Dr Vicki Ives Deliperi",
+      "title": "Psychologist - Neuro",
+      "location": "Plumstead, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -34.0270671,
+      "longitude": 18.4620226
+    },
+    {
+      "name": "Miss Heesoo Melanie Diara",
+      "title": "Psychologist - Neuro",
+      "location": "Rondebosch, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9556636,
+      "longitude": 18.4608997
+    },
+    {
+      "name": "Miss Aimee Kim Dollman",
+      "title": "Psychologist - Neuro",
+      "location": "Edgemead, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.8698544,
+      "longitude": 18.5463295
+    },
+    {
+      "name": "Dr Amy Duncan",
+      "title": "Psychologist - Neuro",
+      "location": "Blouberg Sands, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.807695,
+      "longitude": 18.4803474
+    },
+    {
+      "name": "Miss Annette Du Plessis",
+      "title": "Psychologist - Neuro",
+      "location": "Van Der Stel, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -34.09346,
+      "longitude": 18.856729
+    },
+    {
+      "name": "Ms Rita Du Plessis",
+      "title": "Psychologist - Neuro",
+      "location": "Monumentpark, Pretoria, Gauteng",
+      "description": null,
+      "latitude": -25.8003492,
+      "longitude": 28.2291569
+    },
+    {
+      "name": "Dr Christopher Peter Du Plooy",
+      "title": "Psychologist - Neuro",
+      "location": "Pinelands, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9444497,
+      "longitude": 18.4899804
+    },
+    {
+      "name": "Mrs Teneille Ashleigh Evans",
+      "title": "Psychologist - Neuro",
+      "location": "Kenilworth, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9909467,
+      "longitude": 18.4851422
+    },
+    {
+      "name": "Dr Aline Ferreira Correia",
+      "title": "Psychologist - Neuro",
+      "location": "Braamfontein, Johannesburg, Gauteng",
+      "description": null,
+      "latitude": -26.1904478,
+      "longitude": 28.031079
+    },
+    {
+      "name": "Mrs Yvonne Gartner",
+      "title": "Psychologist - Neuro",
+      "location": "Tokai, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -34.0634046,
+      "longitude": 18.4538391
+    },
+    {
+      "name": "Dr Charmaine Gordon",
+      "title": "Psychologist - Neuro",
+      "location": "Randpark, Randburg, Gauteng",
+      "description": null,
+      "latitude": -26.1151187,
+      "longitude": 27.9741984
+    },
+    {
+      "name": "Mrs Emma-Louise Catherine Gray",
+      "title": "Psychologist - Neuro",
+      "location": "Meadowridge, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -34.0300618,
+      "longitude": 18.4508245
+    },
+    {
+      "name": "Dr Kate Hamilton",
+      "title": "Psychologist - Neuro",
+      "location": "Morningside, Sandton, Gauteng",
+      "description": null,
+      "latitude": -26.0946336,
+      "longitude": 28.0551074
+    },
+    {
+      "name": "Dr Rosanne Marie Hardy",
+      "title": "Psychologist - Neuro",
+      "location": "Umhlanga Rocks, Umhlanga, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.7399369,
+      "longitude": 31.0779377
+    },
+    {
+      "name": "Miss Angela Louise Harwood",
+      "title": "Psychologist - Neuro",
+      "location": "Pinelands, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9436398,
+      "longitude": 18.4903774
+    },
+    {
+      "name": "Dr Coenraad Jacobus Hattingh",
+      "title": "Psychologist - Neuro",
+      "location": "Bloubergstrand, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.8194491,
+      "longitude": 18.4865663
+    },
+    {
+      "name": "Mrs Ann Mary Hofmeyr",
+      "title": "Psychologist - Neuro",
+      "location": "Victory Park, Randburg, Gauteng",
+      "description": null,
+      "latitude": -26.1443094,
+      "longitude": 28.0016778
+    },
+    {
+      "name": "Mrs Ingrid Jonker",
+      "title": "Psychologist - Neuro",
+      "location": "Centurion, Centurion, Gauteng",
+      "description": null,
+      "latitude": -25.8610942,
+      "longitude": 28.2556317
+    },
+    {
+      "name": "Dr Noorjehan Joosub-Vawda",
+      "title": "Psychologist - Neuro",
+      "location": "Boskruin, Randburg, Gauteng",
+      "description": null,
+      "latitude": -26.0878767,
+      "longitude": 27.9587638
+    },
+    {
+      "name": "Dr Mathews Mbangwa (Dr Phale) Katjene",
+      "title": "Psychologist - Neuro",
+      "location": "Arcadia, Pretoria, Gauteng",
+      "description": null,
+      "latitude": -25.7418988,
+      "longitude": 28.214684
+    },
+    {
+      "name": "Dr Doret Karen Kirsten",
+      "title": "Psychologist - Neuro",
+      "location": "Potchefstroom, Potchefstroom, North West",
+      "description": null,
+      "latitude": -26.7055097,
+      "longitude": 27.1027484
+    },
+    {
+      "name": "Ms Candice Marie Joan Knipe",
+      "title": "Psychologist - Neuro",
+      "location": "Mowbray, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.949097,
+      "longitude": 18.4812087
+    },
+    {
+      "name": "Mrs Talia Haidee Lanesman",
+      "title": "Psychologist - Neuro",
+      "location": "Claremont, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9800025,
+      "longitude": 18.4824554
+    },
+    {
+      "name": "Mrs Colleen Ashleigh Law",
+      "title": "Psychologist - Neuro",
+      "location": "Table View, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.8182883,
+      "longitude": 18.4954937
+    },
+    {
+      "name": "Ms Marina Anne Lawrence",
+      "title": "Psychologist - Neuro",
+      "location": "Pinelands, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9437072,
+      "longitude": 18.490369
+    },
+    {
+      "name": "Dr Nadine Michelle Lindinger",
+      "title": "Psychologist - Neuro",
+      "location": "Cape Town, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.922087,
+      "longitude": 18.4231418
+    },
+    {
+      "name": "Mr Robert Michael MacFarlane",
+      "title": "Psychologist - Neuro",
+      "location": "Parkmore, Sandton, Gauteng",
+      "description": null,
+      "latitude": -26.1003314,
+      "longitude": 28.0468649
+    },
+    {
+      "name": "Prof Susan Michelle Malcolm-Smith",
+      "title": "Psychologist - Neuro",
+      "location": "Rondebosch, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.95605,
+      "longitude": 18.4614421
+    },
+    {
+      "name": "Mr Petrus Jacobus Johannes Marais",
+      "title": "Psychologist - Neuro",
+      "location": "Waterkloof Ridge, Pretoria, Gauteng",
+      "description": null,
+      "latitude": -25.814495,
+      "longitude": 28.239789
+    },
+    {
+      "name": "Mr Bokang Methola",
+      "title": "Psychologist - Neuro",
+      "location": "Southernwood, East London, Eastern Cape",
+      "description": null,
+      "latitude": -32.996718,
+      "longitude": 27.9048141
+    },
+    {
+      "name": "Dr Donné Minné",
+      "title": "Psychologist - Neuro",
+      "location": "Sea Point, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9142204,
+      "longitude": 18.392333
+    },
+    {
+      "name": "Dr Eleni Pantelis",
+      "title": "Psychologist - Neuro",
+      "location": "Rondebosch, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.95605,
+      "longitude": 18.4614421
+    },
+    {
+      "name": "Mrs Alexa Caitlin Soule",
+      "title": "Psychologist - Neuro",
+      "location": "Rondebosch, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9623745,
+      "longitude": 18.4896674
+    },
+    {
+      "name": "Mrs Erika Steenberg",
+      "title": "Psychologist - Neuro",
+      "location": "Blouberg Sands, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.807695,
+      "longitude": 18.4803474
+    },
+    {
+      "name": "Miss Nina Simone Steenkamp",
+      "title": "Psychologist - Neuro",
+      "location": "Rondebosch, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9549007,
+      "longitude": 18.4916507
+    },
+    {
+      "name": "Mrs Serotele Thulare",
+      "title": "Psychologist - Neuro",
+      "location": "Benoni, Benoni, Gauteng",
+      "description": null,
+      "latitude": -26.184328,
+      "longitude": 28.3127293
+    },
+    {
+      "name": "Mr Altay Yuce Turan",
+      "title": "Psychologist - Neuro",
+      "location": "Rondebosch, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.9722722,
+      "longitude": 18.4741565
+    },
+    {
+      "name": "Mr Johannes Hendrikus (Rikus) Van Der Poel",
+      "title": "Psychologist - Neuro",
+      "location": "Dan Pienaar, Bloemfontein, Free State",
+      "description": null,
+      "latitude": -29.0882337,
+      "longitude": 26.2097888
+    },
+    {
+      "name": "Dr Marina van Der Ryst",
+      "title": "Psychologist - Neuro",
+      "location": "Lynnwood Manor, Pretoria, Gauteng",
+      "description": null,
+      "latitude": -25.7596144,
+      "longitude": 28.2861868
+    },
+    {
+      "name": "Dr Lea-Ann van Hoorn (Pileggi)",
+      "title": "Psychologist - Neuro",
+      "location": "Lakeside, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -34.0804628,
+      "longitude": 18.4561191
+    },
+    {
+      "name": "Dr Ann Dorothea Watts",
+      "title": "Psychologist - Neuro",
+      "location": "Bulwer, Berea, KwaZulu-Natal",
+      "description": null,
+      "latitude": -29.8544958,
+      "longitude": 30.9868024
+    },
+    {
+      "name": "Mr Abraham Dirk Zeilinga",
+      "title": "Psychologist - Neuro",
+      "location": "Bloubergrise, Cape Town, Western Cape",
+      "description": null,
+      "latitude": -33.8187746,
+      "longitude": 18.4769989
+    }
+  ],
   "Psychometrist": [
     {
       "name": "Mrs Monique Mostert",
@@ -24372,6 +24380,14 @@
       "description": null,
       "latitude": -26.1063061,
       "longitude": 27.9257102
+    },
+    {
+      "name": "Mrs Chenelle Etti Yaari",
+      "title": "Psychometrist",
+      "location": "Sandown, Sandton, Gauteng",
+      "description": null,
+      "latitude": -26.0906429,
+      "longitude": 28.064808
     },
     {
       "name": "Mrs Dimakatso Veronica Yanta",
